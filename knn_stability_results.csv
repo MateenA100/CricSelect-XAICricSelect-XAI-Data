@@ -1,0 +1,4 @@
+role_population,mean_jaccard_overlap,n_reps,perturbation_std,sample_size
+batting,0.7894708994708994,10,0.05,150
+bowling,0.8344761904761905,10,0.05,150
+allrounder,0.8792698412698413,10,0.05,150

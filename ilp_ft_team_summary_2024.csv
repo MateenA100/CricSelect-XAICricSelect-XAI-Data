@@ -1,0 +1,7 @@
+scenario,status,n_candidates,objective_value,runtime_seconds,role_counts,bowling_options,batting_options
+BBL_XI,Optimal,123,8.212409305,0.0029931068420410156,"{""All-Rounder"": 3, ""Batsman"": 3, ""Bowler"": 4, ""Wicketkeeper-Batsman"": 1}",7,7
+CPL_XI,Optimal,77,7.907733595,0.0023517608642578125,"{""All-Rounder"": 3, ""Batsman"": 3, ""Bowler"": 4, ""Wicketkeeper-Batsman"": 1}",7,7
+IPL_XI,Optimal,171,8.991990640000001,0.0050373077392578125,"{""All-Rounder"": 3, ""Batsman"": 3, ""Bowler"": 4, ""Wicketkeeper-Batsman"": 1}",7,7
+PSL_XI,Optimal,81,8.33355605,0.002418994903564453,"{""All-Rounder"": 3, ""Batsman"": 3, ""Bowler"": 4, ""Wicketkeeper-Batsman"": 1}",7,7
+T20_Blast_XI,Optimal,259,8.810657105,0.006523609161376953,"{""All-Rounder"": 3, ""Batsman"": 3, ""Bowler"": 4, ""Wicketkeeper-Batsman"": 1}",7,7
+Cross_League_XI,Optimal,711,9.025437740000001,0.018967390060424805,"{""All-Rounder"": 3, ""Batsman"": 3, ""Bowler"": 4, ""Wicketkeeper-Batsman"": 1}",7,7

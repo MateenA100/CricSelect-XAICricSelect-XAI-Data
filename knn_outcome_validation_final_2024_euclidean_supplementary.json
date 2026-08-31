@@ -1,0 +1,14 @@
+{
+  "label": "SUPPLEMENTARY POST-HOC COMPARISON - not a new untouched holdout. The 2024 season was already examined once (Manhattan, Phase 19). This reruns the identical population/features/scaling with only the distance metric changed to Euclidean, to compare against the metric actually frozen for production in Correction Step 1. Nothing was tuned using this result.",
+  "design": "B",
+  "metric": "euclidean",
+  "target_season": 2024,
+  "final_2024_metrics": {
+    "future_tier_agreement_rate": 0.41378299120234613,
+    "mean_abs_credit_diff": 23.233096774193548,
+    "spearman_query_vs_neighbour_outcome": 0.41125727906142584,
+    "elite_neighbour_precision": 0.4706382978723404,
+    "spearman_query_vs_neighbour_rank": 0.40156664815707493,
+    "n_queries": 682
+  }
+}

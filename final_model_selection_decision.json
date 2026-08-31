@@ -1,0 +1,130 @@
+{
+  "development_selected_model": "FT-Transformer",
+  "development_selected_model_nested_macro_f1": 0.5142,
+  "2024_best_point_estimate": "Logistic Regression",
+  "2024_best_point_estimate_macro_f1": 0.5697692931071529,
+  "2024_best_point_estimate_is_baseline": true,
+  "2024_best_complex_model": "MLP",
+  "2024_best_complex_model_macro_f1": 0.5558515911629717,
+  "development_selected_model_2024_rank_among_complex_models": 5,
+  "deployment_decision": "FT-Transformer",
+  "deployment_decision_status": "frozen",
+  "deployment_decision_basis": "Pre-selected using 2017-2023 nested development evaluation; retained after the single 2024 holdout evaluation to prevent holdout-driven model re-selection.",
+  "primary_downstream_model": "FT-Transformer",
+  "frozen_primary_artifact_sha256": {
+    "ft_transformer_model.pt": "6586725fcc4c021b8b55ac7e7503e40eedd87a16b4814e8132e4a9fbc9e413dd",
+    "ft_transformer_preprocessor.pkl": "a0995a9df4a5f206037f0166b89d6fff85bbd2f814b113a465ed73e37ae1d683",
+    "ft_transformer_selected_config.json": "25bc4ff48cfcdc293de617b06cb04865dd5ced276ed9d607a042a93326d0756e"
+  },
+  "pairwise_bootstrap_comparisons": {
+    "Logistic Regression minus MLP": {
+      "point_estimate": 0.013917701944181182,
+      "ci_95": [
+        -0.011818525269200464,
+        0.04160653235754839
+      ],
+      "statistically_distinguishable": false
+    },
+    "Logistic Regression minus FT-Transformer": {
+      "point_estimate": 0.02457994909271166,
+      "ci_95": [
+        -0.0006885471893837203,
+        0.050114922171033145
+      ],
+      "statistically_distinguishable": false
+    },
+    "MLP minus FT-Transformer": {
+      "point_estimate": 0.01066224714853048,
+      "ci_95": [
+        -0.009206445770687766,
+        0.03189670330506668
+      ],
+      "statistically_distinguishable": false
+    }
+  },
+  "policy_followed": "The 2024 holdout was evaluated exactly once. Its result is reported honestly - including where it CONTRADICTS the development-stage ranking - but no model was retuned, redesigned, or RE-SELECTED as a replacement \"winner\" based on holdout performance. Logistic Regression (a baseline) was evaluated on equal footing with the 5 complex candidates throughout, per the supervisor's explicit baseline-comparison requirement - it is not excluded from any ranking or comparison merely for being simple.",
+  "2024_full_comparison_table": [
+    {
+      "model": "Logistic Regression",
+      "is_baseline": true,
+      "macro_f1": 0.5697692931071529,
+      "balanced_accuracy": 0.5724331926863573,
+      "elite_recall": 0.5949367088607594,
+      "spearman_rho": 0.5472662659890173,
+      "predict_time_seconds": 0.012152671813964844
+    },
+    {
+      "model": "MLP",
+      "is_baseline": false,
+      "macro_f1": 0.5558515911629717,
+      "balanced_accuracy": 0.5625879043600562,
+      "elite_recall": 0.6497890295358649,
+      "spearman_rho": 0.5445590714884216,
+      "predict_time_seconds": 0.00919961929321289
+    },
+    {
+      "model": "CatBoost",
+      "is_baseline": false,
+      "macro_f1": 0.5540504196744006,
+      "balanced_accuracy": 0.5569620253164557,
+      "elite_recall": 0.6286919831223629,
+      "spearman_rho": 0.5447792401258459,
+      "predict_time_seconds": 0.016574382781982422
+    },
+    {
+      "model": "Random Forest",
+      "is_baseline": false,
+      "macro_f1": 0.5511200198278688,
+      "balanced_accuracy": 0.5555555555555557,
+      "elite_recall": 0.6413502109704642,
+      "spearman_rho": 0.5569685097334627,
+      "predict_time_seconds": 0.23427081108093262
+    },
+    {
+      "model": "XGBoost",
+      "is_baseline": false,
+      "macro_f1": 0.5463189671990363,
+      "balanced_accuracy": 0.549929676511955,
+      "elite_recall": 0.6160337552742616,
+      "spearman_rho": 0.5516388728872643,
+      "predict_time_seconds": 0.017455101013183594
+    },
+    {
+      "model": "FT-Transformer",
+      "is_baseline": false,
+      "macro_f1": 0.5451893440144412,
+      "balanced_accuracy": 0.5485232067510548,
+      "elite_recall": 0.6075949367088608,
+      "spearman_rho": 0.5405553209259487,
+      "predict_time_seconds": 1.0522093772888184
+    },
+    {
+      "model": "Previous-season tier",
+      "is_baseline": true,
+      "macro_f1": 0.512742625160333,
+      "balanced_accuracy": 0.5232067510548523,
+      "elite_recall": 0.5147679324894515,
+      "spearman_rho": 0.4452078055843927,
+      "predict_time_seconds": 0.0
+    },
+    {
+      "model": "Dummy (stratified)",
+      "is_baseline": true,
+      "macro_f1": 0.3343938540140501,
+      "balanced_accuracy": 0.3347398030942335,
+      "elite_recall": 0.37130801687763715,
+      "spearman_rho": 0.06687581250548452,
+      "predict_time_seconds": 0.001100301742553711
+    },
+    {
+      "model": "Dummy (most_frequent)",
+      "is_baseline": true,
+      "macro_f1": 0.16666666666666666,
+      "balanced_accuracy": 0.3333333333333333,
+      "elite_recall": 0.0,
+      "spearman_rho": NaN,
+      "predict_time_seconds": 0.0012180805206298828
+    }
+  ],
+  "evaluated_at": "2026-08-17T11:05:45.194326"
+}

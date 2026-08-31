@@ -1,0 +1,33 @@
+{
+  "final_design": "B",
+  "final_metric": "euclidean",
+  "default_k": 5,
+  "similarity_score_method": {
+    "formula": "100 * (1 - fraction_of_role_matched_pairs_with_distance <= this_pairs_distance)",
+    "interpretation": "89/100 means closer than 89% of all possible role-matched pairs - NOT an accuracy figure."
+  },
+  "similarity_category_thresholds": [
+    [
+      "Very similar",
+      0.25
+    ],
+    [
+      "Similar",
+      0.5
+    ],
+    [
+      "Moderate",
+      1.0
+    ],
+    [
+      "Different",
+      Infinity
+    ]
+  ],
+  "replacement_score_weights": {
+    "similarity": 0.6,
+    "rf_ranking": 0.3,
+    "reliability": 0.1
+  },
+  "selection_evidence": "knn_selected_design_comparison.csv (Phase 20) + knn_outcome_validation_dev_summary.csv (Phase 19)"
+}

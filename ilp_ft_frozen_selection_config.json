@@ -1,0 +1,49 @@
+{
+  "forecast_model": "FT-Transformer",
+  "forecast_model_status": "frozen_primary",
+  "weight_selection_seasons": [
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "final_forecast_target_season": 2024,
+  "selected_mode": "A",
+  "selected_label": "FT-Transformer Forecast XI",
+  "selected_weights": {
+    "rf": 1.0,
+    "recent_form": 0.0,
+    "reliability": 0.0
+  },
+  "constraints": {
+    "team_size": 11,
+    "role_ranges": {
+      "Batsman": [
+        3,
+        5
+      ],
+      "Wicketkeeper-Batsman": [
+        1,
+        2
+      ],
+      "Bowler": [
+        3,
+        5
+      ],
+      "All-Rounder": [
+        1,
+        3
+      ]
+    },
+    "min_bowling_options": 5,
+    "min_batting_options": 6
+  },
+  "weight_keys_note": "The legacy key 'rf' means the normalized frozen FT-Transformer forecast in this notebook.",
+  "actual_2024_outcomes_used": false,
+  "source_sha256": {
+    "ft_transformer_oof_predictions.csv": "dd81d3ecdd81c754d22742e94a1dc4f523ca10e6605ab8a8488d4d412db69743",
+    "ilp_ft_primary_forecast_pool_2024.csv": "ba5dbc16bdd0cd213e82aec6548265264e0a7878cf878acbbb0d14933940418a",
+    "ilp_constraint_config.json": "3d071758f7a9f2e58ab14b7821539fc1ff4bde6ecd20f5f26447bbf7de37edf3",
+    "ilp_objective_config.json": "e427b98b7eebf05554087df38bdede9f6c9cb6033b93ee084b4e8a13af65f6aa"
+  }
+}

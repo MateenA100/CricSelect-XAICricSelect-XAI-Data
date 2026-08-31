@@ -1,0 +1,110 @@
+{
+  "0": [
+    {
+      "player_name": "H Kerr",
+      "league": "BBL",
+      "role": "All-Rounder"
+    },
+    {
+      "player_name": "LBK Hollman",
+      "league": "T20_Blast",
+      "role": "All-Rounder"
+    },
+    {
+      "player_name": "DA Douthwaite",
+      "league": "T20_Blast",
+      "role": "All-Rounder"
+    },
+    {
+      "player_name": "HJH Brookes",
+      "league": "T20_Blast",
+      "role": "All-Rounder"
+    },
+    {
+      "player_name": "OF Smith",
+      "league": "CPL",
+      "role": "All-Rounder"
+    }
+  ],
+  "1": [
+    {
+      "player_name": "I Khan",
+      "league": "CPL",
+      "role": "Bowler"
+    },
+    {
+      "player_name": "LV van Beek",
+      "league": "T20_Blast",
+      "role": "Bowler"
+    },
+    {
+      "player_name": "JD Cook",
+      "league": "BBL",
+      "role": "Bowler"
+    },
+    {
+      "player_name": "Zahir Khan",
+      "league": "BBL",
+      "role": "Bowler"
+    },
+    {
+      "player_name": "Wahab Riaz",
+      "league": "CPL",
+      "role": "Bowler"
+    }
+  ],
+  "2": [
+    {
+      "player_name": "NJ Reardon",
+      "league": "BBL",
+      "role": "Batsman"
+    },
+    {
+      "player_name": "Imam-ul-Haq",
+      "league": "PSL",
+      "role": "Batsman"
+    },
+    {
+      "player_name": "GJ Bailey",
+      "league": "IPL",
+      "role": "Batsman"
+    },
+    {
+      "player_name": "BRM Taylor",
+      "league": "T20_Blast",
+      "role": "Batsman"
+    },
+    {
+      "player_name": "KC Sangakkara",
+      "league": "PSL",
+      "role": "Wicketkeeper-Batsman"
+    }
+  ],
+  "3": [
+    {
+      "player_name": "SW Billings",
+      "league": "BBL",
+      "role": "Wicketkeeper-Batsman"
+    },
+    {
+      "player_name": "C Munro",
+      "league": "BBL",
+      "role": "Batsman"
+    },
+    {
+      "player_name": "BR McDermott",
+      "league": "T20_Blast",
+      "role": "Wicketkeeper-Batsman"
+    },
+    {
+      "player_name": "AD Hales",
+      "league": "PSL",
+      "role": "Batsman"
+    },
+    {
+      "player_name": "SR Dickson",
+      "league": "T20_Blast",
+      "role": "Batsman"
+    }
+  ]
+}

@@ -1,0 +1,724 @@
+player_name,league,role,cluster,cluster_name
+A Athanaze,CPL,Batsman,3,Developing Batters
+A Badoni,IPL,Batsman,2,Recent-Form Batters
+A Balbirnie,T20_Blast,Batsman,0,"Established Batters, Low Recent Activity"
+A Bramble,CPL,Batsman,3,Developing Batters
+A Manohar,IPL,Batsman,3,Developing Batters
+AA Jangoo,CPL,Batsman,3,Developing Batters
+AA Jhunjhunwala,IPL,Batsman,3,Developing Batters
+AB Fudadin,CPL,Batsman,3,Developing Batters
+AB McDonald,BBL,Batsman,3,Developing Batters
+AB de Villiers,IPL,Wicketkeeper-Batsman,1,Elite High-Volume Batters
+AC Blizzard,BBL,Batsman,0,"Established Batters, Low Recent Activity"
+AC Gilchrist,IPL,Wicketkeeper-Batsman,0,"Established Batters, Low Recent Activity"
+AC Voges,BBL,Batsman,0,"Established Batters, Low Recent Activity"
+AC Voges,CPL,Batsman,3,Developing Batters
+AD Hales,BBL,Batsman,1,Elite High-Volume Batters
+AD Hales,CPL,Batsman,2,Recent-Form Batters
+AD Hales,PSL,Batsman,2,Recent-Form Batters
+AD Hales,T20_Blast,Batsman,1,Elite High-Volume Batters
+AD Nath,IPL,Batsman,3,Developing Batters
+ADS Fletcher,BBL,Wicketkeeper-Batsman,3,Developing Batters
+ADS Fletcher,CPL,Wicketkeeper-Batsman,1,Elite High-Volume Batters
+AG Prince,T20_Blast,Batsman,0,"Established Batters, Low Recent Activity"
+AG Wakely,T20_Blast,Batsman,0,"Established Batters, Low Recent Activity"
+AGH Orr,T20_Blast,Batsman,2,Recent-Form Batters
+AHT Donald,T20_Blast,Batsman,1,Elite High-Volume Batters
+AI Ross,BBL,Batsman,1,Elite High-Volume Batters
+AJ Blake,T20_Blast,Batsman,1,Elite High-Volume Batters
+AJ Doolan,BBL,Batsman,3,Developing Batters
+AJ Finch,BBL,Batsman,1,Elite High-Volume Batters
+AJ Finch,IPL,Batsman,1,Elite High-Volume Batters
+AJ Finch,T20_Blast,Batsman,1,Elite High-Volume Batters
+AJ Hodd,T20_Blast,Wicketkeeper-Batsman,3,Developing Batters
+AJ Hose,BBL,Batsman,2,Recent-Form Batters
+AJ Hose,T20_Blast,Batsman,1,Elite High-Volume Batters
+AJ Turner,BBL,Batsman,1,Elite High-Volume Batters
+AJ Turner,T20_Blast,Batsman,2,Recent-Form Batters
+AJA Wheater,T20_Blast,Wicketkeeper-Batsman,0,"Established Batters, Low Recent Activity"
+AK Markram,IPL,Batsman,2,Recent-Form Batters
+AL Davies,T20_Blast,Wicketkeeper-Batsman,1,Elite High-Volume Batters
+AL Menaria,IPL,Batsman,3,Developing Batters
+AM Ali,T20_Blast,Batsman,3,Developing Batters
+AM McCarthy,CPL,Batsman,3,Developing Batters
+AM Nayar,IPL,Batsman,3,Developing Batters
+AM Rahane,IPL,Batsman,1,Elite High-Volume Batters
+AM Rossington,T20_Blast,Wicketkeeper-Batsman,1,Elite High-Volume Batters
+AN Kervezee,T20_Blast,Batsman,3,Developing Batters
+AN Petersen,T20_Blast,Batsman,0,"Established Batters, Low Recent Activity"
+AP Devcich,CPL,Batsman,3,Developing Batters
+AP Devcich,PSL,Batsman,0,"Established Batters, Low Recent Activity"
+AP Tare,IPL,Wicketkeeper-Batsman,3,Developing Batters
+APR Gidman,T20_Blast,Batsman,3,Developing Batters
+AS Raut,IPL,Batsman,3,Developing Batters
+AT Carey,BBL,Wicketkeeper-Batsman,1,Elite High-Volume Batters
+AT Rayudu,IPL,Batsman,1,Elite High-Volume Batters
+AW Gale,T20_Blast,Batsman,3,Developing Batters
+AWJ Auguste,CPL,Batsman,3,Developing Batters
+AZ Lees,T20_Blast,Batsman,1,Elite High-Volume Batters
+Abdul Samad,IPL,Batsman,2,Recent-Form Batters
+Abdullah Shafique,PSL,Batsman,2,Recent-Form Batters
+Abhishek Sharma,IPL,Batsman,2,Recent-Form Batters
+Abishek Porel,IPL,Batsman,2,Recent-Form Batters
+Agha Salman,PSL,Batsman,2,Recent-Form Batters
+Ahmed Shehzad,PSL,Batsman,0,"Established Batters, Low Recent Activity"
+Ahsan Ali,PSL,Batsman,2,Recent-Form Batters
+Aman Hakim Khan,IPL,Batsman,3,Developing Batters
+Anuj Dal,T20_Blast,Batsman,3,Developing Batters
+Anuj Rawat,IPL,Batsman,3,Developing Batters
+Asad Shafiq,PSL,Batsman,3,Developing Batters
+Asif Ali,CPL,Batsman,3,Developing Batters
+Asif Ali,PSL,Batsman,1,Elite High-Volume Batters
+Azam Khan,CPL,Wicketkeeper-Batsman,2,Recent-Form Batters
+Azam Khan,PSL,Wicketkeeper-Batsman,1,Elite High-Volume Batters
+B Chipli,IPL,Batsman,3,Developing Batters
+B Sai Sudharsan,IPL,Batsman,2,Recent-Form Batters
+BA Godleman,T20_Blast,Batsman,0,"Established Batters, Low Recent Activity"
+BA King,CPL,Batsman,1,Elite High-Volume Batters
+BA Stokes,T20_Blast,Batsman,0,"Established Batters, Low Recent Activity"
+BB McCullum,BBL,Wicketkeeper-Batsman,0,"Established Batters, Low Recent Activity"
+BB McCullum,CPL,Wicketkeeper-Batsman,0,"Established Batters, Low Recent Activity"
+BB McCullum,IPL,Wicketkeeper-Batsman,1,Elite High-Volume Batters
+BB McCullum,PSL,Wicketkeeper-Batsman,3,Developing Batters
+BB McCullum,T20_Blast,Wicketkeeper-Batsman,0,"Established Batters, Low Recent Activity"
+BC Brown,T20_Blast,Batsman,3,Developing Batters
+BCJ Cutting,IPL,Batsman,0,"Established Batters, Low Recent Activity"
+BCJ Cutting,PSL,Batsman,2,Recent-Form Batters
+BD Guest,T20_Blast,Wicketkeeper-Batsman,2,Recent-Form Batters
+BFW de Leede,T20_Blast,Batsman,2,Recent-Form Batters
+BG Charlesworth,T20_Blast,Batsman,2,Recent-Form Batters
+BJ Curran,T20_Blast,Batsman,2,Recent-Form Batters
+BJ Haddin,BBL,Wicketkeeper-Batsman,0,"Established Batters, Low Recent Activity"
+BJ Haddin,PSL,Wicketkeeper-Batsman,0,"Established Batters, Low Recent Activity"
+BJ Hodge,BBL,Batsman,0,"Established Batters, Low Recent Activity"
+BJ Hodge,CPL,Batsman,0,"Established Batters, Low Recent Activity"
+BJ Hodge,IPL,Batsman,0,"Established Batters, Low Recent Activity"
+BJ Rohrer,BBL,Batsman,0,"Established Batters, Low Recent Activity"
+BJ Webster,T20_Blast,Batsman,3,Developing Batters
+BJ Wright,T20_Blast,Batsman,3,Developing Batters
+BM Duckett,BBL,Batsman,2,Recent-Form Batters
+BM Duckett,T20_Blast,Batsman,1,Elite High-Volume Batters
+BR Dunk,BBL,Wicketkeeper-Batsman,0,"Established Batters, Low Recent Activity"
+BR Dunk,CPL,Wicketkeeper-Batsman,3,Developing Batters
+BR Dunk,PSL,Wicketkeeper-Batsman,0,"Established Batters, Low Recent Activity"
+BR McDermott,BBL,Wicketkeeper-Batsman,1,Elite High-Volume Batters
+BR McDermott,T20_Blast,Wicketkeeper-Batsman,2,Recent-Form Batters
+BRM Taylor,T20_Blast,Batsman,0,"Established Batters, Low Recent Activity"
+BT Foakes,T20_Blast,Wicketkeeper-Batsman,0,"Established Batters, Low Recent Activity"
+BT Slater,T20_Blast,Batsman,3,Developing Batters
+Babar Azam,PSL,Batsman,1,Elite High-Volume Batters
+Babar Azam,T20_Blast,Batsman,0,"Established Batters, Low Recent Activity"
+C Bosch,CPL,Batsman,3,Developing Batters
+C Connolly,BBL,Batsman,2,Recent-Form Batters
+C Munro,BBL,Batsman,2,Recent-Form Batters
+C Munro,CPL,Batsman,1,Elite High-Volume Batters
+C Munro,IPL,Batsman,3,Developing Batters
+C Munro,PSL,Batsman,1,Elite High-Volume Batters
+C Munro,T20_Blast,Batsman,1,Elite High-Volume Batters
+C de Grandhomme,BBL,Batsman,2,Recent-Form Batters
+C de Grandhomme,CPL,Batsman,0,"Established Batters, Low Recent Activity"
+C de Grandhomme,IPL,Batsman,3,Developing Batters
+CA Ingram,BBL,Batsman,0,"Established Batters, Low Recent Activity"
+CA Ingram,CPL,Batsman,3,Developing Batters
+CA Ingram,IPL,Batsman,3,Developing Batters
+CA Ingram,PSL,Batsman,0,"Established Batters, Low Recent Activity"
+CA Lynn,BBL,Batsman,1,Elite High-Volume Batters
+CA Lynn,CPL,Batsman,0,"Established Batters, Low Recent Activity"
+CA Lynn,IPL,Batsman,0,"Established Batters, Low Recent Activity"
+CA Lynn,PSL,Batsman,0,"Established Batters, Low Recent Activity"
+CA Lynn,T20_Blast,Batsman,2,Recent-Form Batters
+CA Pujara,IPL,Batsman,3,Developing Batters
+CAK Walton,CPL,Wicketkeeper-Batsman,1,Elite High-Volume Batters
+CAK Walton,PSL,Wicketkeeper-Batsman,0,"Established Batters, Low Recent Activity"
+CB Cooke,T20_Blast,Wicketkeeper-Batsman,1,Elite High-Volume Batters
+CD Barnwell,CPL,Batsman,3,Developing Batters
+CD Nash,T20_Blast,Batsman,0,"Established Batters, Low Recent Activity"
+CDJ Dent,T20_Blast,Batsman,2,Recent-Form Batters
+CF Hughes,T20_Blast,Batsman,3,Developing Batters
+CG Benjamin,T20_Blast,Batsman,2,Recent-Form Batters
+CH Gayle,BBL,Batsman,0,"Established Batters, Low Recent Activity"
+CH Gayle,CPL,Batsman,1,Elite High-Volume Batters
+CH Gayle,IPL,Batsman,1,Elite High-Volume Batters
+CH Gayle,PSL,Batsman,0,"Established Batters, Low Recent Activity"
+CJ Anderson,T20_Blast,Batsman,0,"Established Batters, Low Recent Activity"
+CJ Borgas,BBL,Batsman,3,Developing Batters
+CJ Ferguson,BBL,Batsman,0,"Established Batters, Low Recent Activity"
+CJ Ferguson,T20_Blast,Batsman,0,"Established Batters, Low Recent Activity"
+CJ Simmons,BBL,Batsman,0,"Established Batters, Low Recent Activity"
+CL White,BBL,Batsman,0,"Established Batters, Low Recent Activity"
+CL White,IPL,Batsman,0,"Established Batters, Low Recent Activity"
+CM Gautam,IPL,Wicketkeeper-Batsman,3,Developing Batters
+CMW Read,T20_Blast,Wicketkeeper-Batsman,0,"Established Batters, Low Recent Activity"
+CP Jewell,BBL,Batsman,2,Recent-Form Batters
+CS Delport,CPL,Batsman,3,Developing Batters
+CS Delport,PSL,Batsman,0,"Established Batters, Low Recent Activity"
+CS MacLeod,T20_Blast,Batsman,0,"Established Batters, Low Recent Activity"
+CT Bancroft,BBL,Wicketkeeper-Batsman,1,Elite High-Volume Batters
+CT Bancroft,T20_Blast,Wicketkeeper-Batsman,2,Recent-Form Batters
+Callum Taylor,T20_Blast,Batsman,3,Developing Batters
+Craig Cachopa,T20_Blast,Batsman,0,"Established Batters, Low Recent Activity"
+D Brevis,IPL,Batsman,2,Recent-Form Batters
+D Elgar,T20_Blast,Batsman,2,Recent-Form Batters
+D Ferreira,T20_Blast,Wicketkeeper-Batsman,2,Recent-Form Batters
+D Padikkal,IPL,Batsman,2,Recent-Form Batters
+D Pretorius,T20_Blast,Batsman,0,"Established Batters, Low Recent Activity"
+D Ramdin,CPL,Wicketkeeper-Batsman,0,"Established Batters, Low Recent Activity"
+D Smit,T20_Blast,Wicketkeeper-Batsman,3,Developing Batters
+DA Miller,BBL,Batsman,3,Developing Batters
+DA Miller,CPL,Batsman,2,Recent-Form Batters
+DA Miller,IPL,Batsman,1,Elite High-Volume Batters
+DA Warner,BBL,Batsman,2,Recent-Form Batters
+DA Warner,IPL,Batsman,1,Elite High-Volume Batters
+DB Das,IPL,Batsman,3,Developing Batters
+DB Ravi Teja,IPL,Batsman,3,Developing Batters
+DC Thomas,CPL,Wicketkeeper-Batsman,0,"Established Batters, Low Recent Activity"
+DG Bedingham,T20_Blast,Batsman,2,Recent-Form Batters
+DH Yagnik,IPL,Wicketkeeper-Batsman,3,Developing Batters
+DJ Bell-Drummond,T20_Blast,Batsman,1,Elite High-Volume Batters
+DJ Harris,BBL,Batsman,3,Developing Batters
+DJ Hooda,IPL,Batsman,1,Elite High-Volume Batters
+DJ Hussey,BBL,Batsman,0,"Established Batters, Low Recent Activity"
+DJ Hussey,IPL,Batsman,0,"Established Batters, Low Recent Activity"
+DJ Lincoln,T20_Blast,Batsman,3,Developing Batters
+DJ Malan,BBL,Batsman,3,Developing Batters
+DJ Malan,PSL,Batsman,2,Recent-Form Batters
+DJ Malan,T20_Blast,Batsman,1,Elite High-Volume Batters
+DJ Mitchell,IPL,Batsman,2,Recent-Form Batters
+DJ Vilas,T20_Blast,Wicketkeeper-Batsman,1,Elite High-Volume Batters
+DJG Sammy,BBL,Batsman,0,"Established Batters, Low Recent Activity"
+DJG Sammy,IPL,Batsman,3,Developing Batters
+DJG Sammy,PSL,Batsman,0,"Established Batters, Low Recent Activity"
+DL Lloyd,T20_Blast,Batsman,1,Elite High-Volume Batters
+DLR Smith,BBL,Wicketkeeper-Batsman,3,Developing Batters
+DM Bravo,CPL,Batsman,1,Elite High-Volume Batters
+DP Conway,IPL,Batsman,2,Recent-Form Batters
+DP Hughes,BBL,Batsman,1,Elite High-Volume Batters
+DP Hughes,T20_Blast,Batsman,2,Recent-Form Batters
+DP Hyatt,CPL,Batsman,3,Developing Batters
+DP Sibley,T20_Blast,Batsman,2,Recent-Form Batters
+DPMD Jayawardene,CPL,Batsman,3,Developing Batters
+DPMD Jayawardene,IPL,Batsman,0,"Established Batters, Low Recent Activity"
+DPMD Jayawardene,T20_Blast,Batsman,0,"Established Batters, Low Recent Activity"
+DR Smith,CPL,Batsman,0,"Established Batters, Low Recent Activity"
+DR Smith,PSL,Batsman,0,"Established Batters, Low Recent Activity"
+DW Lawrence,BBL,Batsman,2,Recent-Form Batters
+Dhruv Jurel,IPL,Batsman,2,Recent-Form Batters
+E Lewis,CPL,Batsman,1,Elite High-Volume Batters
+E Lewis,IPL,Batsman,2,Recent-Form Batters
+EA Brookes,T20_Blast,Batsman,2,Recent-Form Batters
+EJ Byrom,T20_Blast,Batsman,2,Recent-Form Batters
+EJ Pollock,T20_Blast,Batsman,1,Elite High-Volume Batters
+EJG Morgan,BBL,Batsman,0,"Established Batters, Low Recent Activity"
+EJG Morgan,IPL,Batsman,0,"Established Batters, Low Recent Activity"
+EJG Morgan,T20_Blast,Batsman,1,Elite High-Volume Batters
+EJH Eckersley,T20_Blast,Wicketkeeper-Batsman,0,"Established Batters, Low Recent Activity"
+EN Gay,T20_Blast,Batsman,2,Recent-Form Batters
+F du Plessis,CPL,Batsman,2,Recent-Form Batters
+F du Plessis,IPL,Batsman,1,Elite High-Volume Batters
+FH Allen,BBL,Batsman,2,Recent-Form Batters
+FH Allen,T20_Blast,Batsman,2,Recent-Form Batters
+FIN Khushi,T20_Blast,Batsman,2,Recent-Form Batters
+FY Fazal,IPL,Batsman,3,Developing Batters
+Fakhar Zaman,PSL,Batsman,1,Elite High-Volume Batters
+G Clark,T20_Blast,Batsman,1,Elite High-Volume Batters
+G Gambhir,IPL,Batsman,1,Elite High-Volume Batters
+G Roelofsen,T20_Blast,Batsman,2,Recent-Form Batters
+GA Bartlett,T20_Blast,Batsman,3,Developing Batters
+GC Smith,IPL,Batsman,0,"Established Batters, Low Recent Activity"
+GC Wilson,T20_Blast,Wicketkeeper-Batsman,0,"Established Batters, Low Recent Activity"
+GCH Hill,T20_Blast,Batsman,3,Developing Batters
+GD Cross,T20_Blast,Batsman,3,Developing Batters
+GD Phillips,CPL,Wicketkeeper-Batsman,0,"Established Batters, Low Recent Activity"
+GD Phillips,T20_Blast,Wicketkeeper-Batsman,2,Recent-Form Batters
+GFB Scott,T20_Blast,Batsman,3,Developing Batters
+GH Roderick,T20_Blast,Batsman,3,Developing Batters
+GH Vihari,IPL,Batsman,3,Developing Batters
+GJ Bailey,BBL,Batsman,0,"Established Batters, Low Recent Activity"
+GJ Bailey,IPL,Batsman,0,"Established Batters, Low Recent Activity"
+GJ Bailey,T20_Blast,Batsman,0,"Established Batters, Low Recent Activity"
+GJ Muchall,T20_Blast,Batsman,0,"Established Batters, Low Recent Activity"
+GO Jones,T20_Blast,Wicketkeeper-Batsman,0,"Established Batters, Low Recent Activity"
+GP Smith,T20_Blast,Batsman,0,"Established Batters, Low Recent Activity"
+GS Ballance,T20_Blast,Batsman,3,Developing Batters
+Gurkeerat Singh,IPL,Batsman,3,Developing Batters
+H Davids,CPL,Batsman,3,Developing Batters
+H Klaasen,IPL,Wicketkeeper-Batsman,2,Recent-Form Batters
+HC Brook,IPL,Batsman,3,Developing Batters
+HC Brook,T20_Blast,Batsman,2,Recent-Form Batters
+HD Rutherford,T20_Blast,Batsman,0,"Established Batters, Low Recent Activity"
+HD Ward,T20_Blast,Batsman,2,Recent-Form Batters
+HE Dearden,T20_Blast,Batsman,3,Developing Batters
+HE van der Dussen,PSL,Batsman,2,Recent-Form Batters
+HG Kuhn,T20_Blast,Batsman,0,"Established Batters, Low Recent Activity"
+HH Gibbs,BBL,Batsman,0,"Established Batters, Low Recent Activity"
+HH Gibbs,IPL,Batsman,0,"Established Batters, Low Recent Activity"
+HJ Nielsen,BBL,Wicketkeeper-Batsman,3,Developing Batters
+HJ Swindells,T20_Blast,Wicketkeeper-Batsman,3,Developing Batters
+HJH Marshall,T20_Blast,Batsman,0,"Established Batters, Low Recent Activity"
+HM Amla,CPL,Batsman,0,"Established Batters, Low Recent Activity"
+HM Amla,IPL,Batsman,0,"Established Batters, Low Recent Activity"
+HM Amla,T20_Blast,Batsman,0,"Established Batters, Low Recent Activity"
+HRC Came,T20_Blast,Batsman,2,Recent-Form Batters
+HWR Cartwright,BBL,Batsman,1,Elite High-Volume Batters
+HZ Finch,T20_Blast,Batsman,3,Developing Batters
+Haider Ali,PSL,Batsman,2,Recent-Form Batters
+Haider Ali,T20_Blast,Batsman,2,Recent-Form Batters
+Hammad Azam,PSL,Batsman,3,Developing Batters
+Haris Sohail,PSL,Batsman,3,Developing Batters
+Haseebullah Khan,PSL,Batsman,2,Recent-Form Batters
+Hazratullah,PSL,Batsman,2,Recent-Form Batters
+Hussain Talat,PSL,Batsman,1,Elite High-Volume Batters
+IA Cockbain,T20_Blast,Batsman,1,Elite High-Volume Batters
+IG Holland,T20_Blast,Batsman,0,"Established Batters, Low Recent Activity"
+IR Bell,T20_Blast,Batsman,0,"Established Batters, Low Recent Activity"
+Imam-ul-Haq,PSL,Batsman,0,"Established Batters, Low Recent Activity"
+Irfan Khan,PSL,Batsman,2,Recent-Form Batters
+Ishan Kishan,IPL,Wicketkeeper-Batsman,1,Elite High-Volume Batters
+J Avendano,BBL,Batsman,3,Developing Batters
+J Blackwood,CPL,Batsman,3,Developing Batters
+J Brown,BBL,Batsman,2,Recent-Form Batters
+J Charles,CPL,Wicketkeeper-Batsman,1,Elite High-Volume Batters
+J Charles,PSL,Wicketkeeper-Batsman,2,Recent-Form Batters
+J Da Silva,CPL,Wicketkeeper-Batsman,3,Developing Batters
+J Fraser-McGurk,BBL,Batsman,2,Recent-Form Batters
+J Merlo,BBL,Batsman,3,Developing Batters
+J Seymour,BBL,Batsman,3,Developing Batters
+J Weatherald,BBL,Batsman,1,Elite High-Volume Batters
+JA Burns,BBL,Batsman,2,Recent-Form Batters
+JA Foo,CPL,Batsman,3,Developing Batters
+JA Haynes,T20_Blast,Batsman,2,Recent-Form Batters
+JA Rudolph,T20_Blast,Batsman,0,"Established Batters, Low Recent Activity"
+JA Simpson,T20_Blast,Wicketkeeper-Batsman,1,Elite High-Volume Batters
+JA Tattersall,T20_Blast,Wicketkeeper-Batsman,3,Developing Batters
+JB Cracknell,T20_Blast,Batsman,2,Recent-Form Batters
+JC Buttler,BBL,Wicketkeeper-Batsman,0,"Established Batters, Low Recent Activity"
+JC Buttler,IPL,Wicketkeeper-Batsman,1,Elite High-Volume Batters
+JC Buttler,T20_Blast,Wicketkeeper-Batsman,1,Elite High-Volume Batters
+JC Hildreth,T20_Blast,Batsman,0,"Established Batters, Low Recent Activity"
+JC Silk,BBL,Batsman,1,Elite High-Volume Batters
+JD Libby,T20_Blast,Batsman,0,"Established Batters, Low Recent Activity"
+JD Ryder,IPL,Batsman,0,"Established Batters, Low Recent Activity"
+JD Ryder,T20_Blast,Batsman,0,"Established Batters, Low Recent Activity"
+JDM Evison,T20_Blast,Batsman,2,Recent-Form Batters
+JE Root,T20_Blast,Batsman,2,Recent-Form Batters
+JEC Franklin,IPL,Batsman,3,Developing Batters
+JG Bethell,T20_Blast,Batsman,2,Recent-Form Batters
+JG Myburgh,T20_Blast,Batsman,0,"Established Batters, Low Recent Activity"
+JH Kallis,BBL,Batsman,0,"Established Batters, Low Recent Activity"
+JH Kallis,CPL,Batsman,3,Developing Batters
+JH Wharton,T20_Blast,Batsman,2,Recent-Form Batters
+JHK Adams,T20_Blast,Batsman,0,"Established Batters, Low Recent Activity"
+JJ Bohannon,T20_Blast,Batsman,3,Developing Batters
+JJ Peirson,BBL,Wicketkeeper-Batsman,1,Elite High-Volume Batters
+JJ Roy,BBL,Batsman,0,"Established Batters, Low Recent Activity"
+JJ Roy,IPL,Batsman,2,Recent-Form Batters
+JJ Roy,PSL,Batsman,2,Recent-Form Batters
+JJ Roy,T20_Blast,Batsman,1,Elite High-Volume Batters
+JJ Weatherley,T20_Blast,Batsman,1,Elite High-Volume Batters
+JJS Sangha,BBL,Batsman,2,Recent-Form Batters
+JL Carter,CPL,Batsman,3,Developing Batters
+JL Denly,BBL,Batsman,3,Developing Batters
+JL Denly,PSL,Batsman,0,"Established Batters, Low Recent Activity"
+JL Smith,T20_Blast,Wicketkeeper-Batsman,2,Recent-Form Batters
+JL du Plooy,T20_Blast,Batsman,1,Elite High-Volume Batters
+JLB Davies,T20_Blast,Wicketkeeper-Batsman,2,Recent-Form Batters
+JM Bairstow,IPL,Wicketkeeper-Batsman,2,Recent-Form Batters
+JM Bairstow,T20_Blast,Wicketkeeper-Batsman,0,"Established Batters, Low Recent Activity"
+JM Clarke,BBL,Wicketkeeper-Batsman,2,Recent-Form Batters
+JM Clarke,PSL,Wicketkeeper-Batsman,2,Recent-Form Batters
+JM Clarke,T20_Blast,Wicketkeeper-Batsman,1,Elite High-Volume Batters
+JM Cox,T20_Blast,Wicketkeeper-Batsman,1,Elite High-Volume Batters
+JM Sharma,IPL,Wicketkeeper-Batsman,2,Recent-Form Batters
+JM Vince,BBL,Batsman,1,Elite High-Volume Batters
+JM Vince,PSL,Batsman,2,Recent-Form Batters
+JM Vince,T20_Blast,Batsman,1,Elite High-Volume Batters
+JMR Taylor,T20_Blast,Batsman,1,Elite High-Volume Batters
+JN Mohammed,CPL,Batsman,0,"Established Batters, Low Recent Activity"
+JP Duminy,CPL,Batsman,0,"Established Batters, Low Recent Activity"
+JP Greaves,CPL,Batsman,2,Recent-Form Batters
+JP Inglis,BBL,Wicketkeeper-Batsman,1,Elite High-Volume Batters
+JP Inglis,T20_Blast,Wicketkeeper-Batsman,0,"Established Batters, Low Recent Activity"
+JP Webb,T20_Blast,Batsman,3,Developing Batters
+JR Dean,BBL,Batsman,3,Developing Batters
+JR Hopes,IPL,Batsman,0,"Established Batters, Low Recent Activity"
+JR Philippe,BBL,Wicketkeeper-Batsman,1,Elite High-Volume Batters
+JS Floros,BBL,Batsman,3,Developing Batters
+JS Foster,T20_Blast,Wicketkeeper-Batsman,0,"Established Batters, Low Recent Activity"
+JS Lehmann,BBL,Batsman,3,Developing Batters
+JS Lenton,BBL,Wicketkeeper-Batsman,0,"Established Batters, Low Recent Activity"
+JTA Burnham,T20_Blast,Batsman,3,Developing Batters
+JW Wells,BBL,Batsman,1,Elite High-Volume Batters
+JWA Taylor,T20_Blast,Batsman,0,"Established Batters, Low Recent Activity"
+James Bracey,T20_Blast,Wicketkeeper-Batsman,1,Elite High-Volume Batters
+K Alleyne,CPL,Batsman,2,Recent-Form Batters
+K Goel,IPL,Batsman,3,Developing Batters
+K Lewis,CPL,Wicketkeeper-Batsman,3,Developing Batters
+KA Pollard,BBL,Batsman,0,"Established Batters, Low Recent Activity"
+KC Sangakkara,BBL,Wicketkeeper-Batsman,3,Developing Batters
+KC Sangakkara,CPL,Wicketkeeper-Batsman,0,"Established Batters, Low Recent Activity"
+KC Sangakkara,IPL,Wicketkeeper-Batsman,0,"Established Batters, Low Recent Activity"
+KC Sangakkara,PSL,Wicketkeeper-Batsman,0,"Established Batters, Low Recent Activity"
+KC Sangakkara,T20_Blast,Wicketkeeper-Batsman,0,"Established Batters, Low Recent Activity"
+KD Karthik,IPL,Wicketkeeper-Batsman,1,Elite High-Volume Batters
+KJ Coetzer,T20_Blast,Batsman,3,Developing Batters
+KJ O'Brien,CPL,Batsman,0,"Established Batters, Low Recent Activity"
+KK Nair,IPL,Batsman,0,"Established Batters, Low Recent Activity"
+KL Rahul,IPL,Wicketkeeper-Batsman,1,Elite High-Volume Batters
+KM Jadhav,IPL,Wicketkeeper-Batsman,0,"Established Batters, Low Recent Activity"
+KOA Powell,CPL,Batsman,3,Developing Batters
+KP Pietersen,BBL,Batsman,0,"Established Batters, Low Recent Activity"
+KP Pietersen,CPL,Batsman,0,"Established Batters, Low Recent Activity"
+KP Pietersen,IPL,Batsman,0,"Established Batters, Low Recent Activity"
+KP Pietersen,PSL,Batsman,0,"Established Batters, Low Recent Activity"
+KP Pietersen,T20_Blast,Batsman,3,Developing Batters
+KR Brown,T20_Blast,Batsman,0,"Established Batters, Low Recent Activity"
+KR Mayers,IPL,Batsman,2,Recent-Form Batters
+KR Patterson,BBL,Batsman,2,Recent-Form Batters
+KS Carlson,T20_Blast,Batsman,1,Elite High-Volume Batters
+KS Velani,T20_Blast,Batsman,3,Developing Batters
+KS Williamson,CPL,Batsman,3,Developing Batters
+KS Williamson,IPL,Batsman,1,Elite High-Volume Batters
+KS Williamson,T20_Blast,Batsman,0,"Established Batters, Low Recent Activity"
+KSA McKenzie,CPL,Batsman,3,Developing Batters
+KU Carty,CPL,Batsman,2,Recent-Form Batters
+Kamran Akmal,CPL,Wicketkeeper-Batsman,3,Developing Batters
+Kamran Akmal,PSL,Wicketkeeper-Batsman,1,Elite High-Volume Batters
+Kamran Ghulam,PSL,Batsman,3,Developing Batters
+Kashif Ali,T20_Blast,Batsman,2,Recent-Form Batters
+Khawaja Nafay,PSL,Batsman,3,Developing Batters
+L Gregory,BBL,Batsman,3,Developing Batters
+L Gregory,PSL,Batsman,0,"Established Batters, Low Recent Activity"
+L Ronchi,CPL,Wicketkeeper-Batsman,0,"Established Batters, Low Recent Activity"
+L Ronchi,PSL,Wicketkeeper-Batsman,0,"Established Batters, Low Recent Activity"
+L Ronchi,T20_Blast,Wicketkeeper-Batsman,0,"Established Batters, Low Recent Activity"
+LA Pomersbach,BBL,Batsman,0,"Established Batters, Low Recent Activity"
+LA Pomersbach,IPL,Batsman,0,"Established Batters, Low Recent Activity"
+LA Procter,T20_Blast,Batsman,3,Developing Batters
+LD McManus,T20_Blast,Wicketkeeper-Batsman,0,"Established Batters, Low Recent Activity"
+LJ Evans,BBL,Batsman,2,Recent-Form Batters
+LJ Evans,CPL,Batsman,2,Recent-Form Batters
+LJ Evans,T20_Blast,Batsman,1,Elite High-Volume Batters
+LJ Hill,T20_Blast,Wicketkeeper-Batsman,1,Elite High-Volume Batters
+LJ Wright,BBL,Batsman,0,"Established Batters, Low Recent Activity"
+LJ Wright,T20_Blast,Batsman,1,Elite High-Volume Batters
+LM Benkenstein,T20_Blast,Batsman,2,Recent-Form Batters
+LMP Simmons,CPL,Batsman,1,Elite High-Volume Batters
+LMP Simmons,IPL,Batsman,0,"Established Batters, Low Recent Activity"
+LPJ Kimber,T20_Blast,Batsman,2,Recent-Form Batters
+LRPL Taylor,CPL,Batsman,0,"Established Batters, Low Recent Activity"
+LRPL Taylor,IPL,Batsman,0,"Established Batters, Low Recent Activity"
+LRPL Taylor,T20_Blast,Batsman,0,"Established Batters, Low Recent Activity"
+LS Livingstone,BBL,Batsman,0,"Established Batters, Low Recent Activity"
+LS Livingstone,PSL,Batsman,0,"Established Batters, Low Recent Activity"
+LW James,T20_Blast,Batsman,3,Developing Batters
+Lalit Yadav,IPL,Batsman,3,Developing Batters
+M Bryant,BBL,Batsman,1,Elite High-Volume Batters
+M Gilkes,BBL,Batsman,3,Developing Batters
+M Kaif,IPL,Batsman,3,Developing Batters
+M Klinger,BBL,Batsman,0,"Established Batters, Low Recent Activity"
+M Klinger,T20_Blast,Batsman,1,Elite High-Volume Batters
+M Labuschagne,BBL,Batsman,2,Recent-Form Batters
+M Manhas,IPL,Batsman,3,Developing Batters
+M Montgomery,T20_Blast,Batsman,3,Developing Batters
+M Rawat,IPL,Batsman,3,Developing Batters
+M Shahrukh Khan,IPL,Batsman,2,Recent-Form Batters
+M Vijay,IPL,Batsman,1,Elite High-Volume Batters
+M Vohra,IPL,Batsman,2,Recent-Form Batters
+M Wright,BBL,Batsman,2,Recent-Form Batters
+MA Agarwal,IPL,Batsman,1,Elite High-Volume Batters
+MA Carberry,BBL,Batsman,0,"Established Batters, Low Recent Activity"
+MA Carberry,T20_Blast,Batsman,0,"Established Batters, Low Recent Activity"
+MA Jones,T20_Blast,Batsman,2,Recent-Form Batters
+MA Wallace,T20_Blast,Wicketkeeper-Batsman,3,Developing Batters
+MAG Boyce,T20_Blast,Batsman,3,Developing Batters
+MD Mishra,IPL,Batsman,3,Developing Batters
+MD Stoneman,T20_Blast,Batsman,0,"Established Batters, Low Recent Activity"
+MDE Holden,T20_Blast,Batsman,1,Elite High-Volume Batters
+ME Trescothick,T20_Blast,Batsman,3,Developing Batters
+MEK Hussey,BBL,Batsman,0,"Established Batters, Low Recent Activity"
+MEK Hussey,IPL,Batsman,0,"Established Batters, Low Recent Activity"
+MF Hurst,T20_Blast,Batsman,2,Recent-Form Batters
+MGK Burgess,T20_Blast,Wicketkeeper-Batsman,2,Recent-Form Batters
+MH Wessels,T20_Blast,Batsman,1,Elite High-Volume Batters
+MJ Cosgrove,T20_Blast,Batsman,0,"Established Batters, Low Recent Activity"
+MJ Guptill,BBL,Batsman,3,Developing Batters
+MJ Guptill,CPL,Batsman,1,Elite High-Volume Batters
+MJ Guptill,IPL,Batsman,0,"Established Batters, Low Recent Activity"
+MJ Guptill,PSL,Batsman,2,Recent-Form Batters
+MJ Guptill,T20_Blast,Batsman,0,"Established Batters, Low Recent Activity"
+MJ Lumb,BBL,Batsman,0,"Established Batters, Low Recent Activity"
+MJ Lumb,IPL,Batsman,0,"Established Batters, Low Recent Activity"
+MJ Lumb,T20_Blast,Batsman,0,"Established Batters, Low Recent Activity"
+MJ North,BBL,Batsman,0,"Established Batters, Low Recent Activity"
+MJ North,T20_Blast,Batsman,0,"Established Batters, Low Recent Activity"
+MJ Owen,BBL,Batsman,2,Recent-Form Batters
+MJ Richardson,T20_Blast,Batsman,3,Developing Batters
+MK Lomror,IPL,Batsman,2,Recent-Form Batters
+MK Pandey,IPL,Batsman,1,Elite High-Volume Batters
+MK Tiwary,IPL,Batsman,0,"Established Batters, Low Recent Activity"
+ML Hayden,IPL,Batsman,0,"Established Batters, Low Recent Activity"
+ML Pettini,T20_Blast,Batsman,0,"Established Batters, Low Recent Activity"
+MNW Spriegel,T20_Blast,Batsman,3,Developing Batters
+MP Breetzke,T20_Blast,Batsman,2,Recent-Form Batters
+MS Bisla,IPL,Wicketkeeper-Batsman,3,Developing Batters
+MS Dhoni,IPL,Wicketkeeper-Batsman,1,Elite High-Volume Batters
+MS Harris,BBL,Batsman,3,Developing Batters
+MS Pepper,T20_Blast,Batsman,1,Elite High-Volume Batters
+MS Wade,BBL,Wicketkeeper-Batsman,1,Elite High-Volume Batters
+MS Wade,IPL,Wicketkeeper-Batsman,3,Developing Batters
+MT Renshaw,BBL,Batsman,1,Elite High-Volume Batters
+MV Boucher,IPL,Wicketkeeper-Batsman,0,"Established Batters, Low Recent Activity"
+MW Harvey,BBL,Batsman,3,Developing Batters
+MW Hill,BBL,Batsman,0,"Established Batters, Low Recent Activity"
+MW Machan,T20_Blast,Batsman,0,"Established Batters, Low Recent Activity"
+Mandeep Singh,IPL,Batsman,0,"Established Batters, Low Recent Activity"
+Miles Hammond,T20_Blast,Batsman,1,Elite High-Volume Batters
+Mirza Baig,PSL,Batsman,2,Recent-Form Batters
+Misbah-ul-Haq,CPL,Batsman,3,Developing Batters
+Misbah-ul-Haq,PSL,Batsman,0,"Established Batters, Low Recent Activity"
+Mohammad Haris,PSL,Batsman,2,Recent-Form Batters
+Mohammad Rizwan,PSL,Wicketkeeper-Batsman,1,Elite High-Volume Batters
+Mubasir Khan,PSL,Batsman,3,Developing Batters
+N Jagadeesan,IPL,Batsman,3,Developing Batters
+N Pooran,CPL,Wicketkeeper-Batsman,1,Elite High-Volume Batters
+N Pooran,IPL,Wicketkeeper-Batsman,2,Recent-Form Batters
+N Rana,IPL,Batsman,1,Elite High-Volume Batters
+N Saini,IPL,Batsman,3,Developing Batters
+N Wadhera,IPL,Batsman,2,Recent-Form Batters
+NA McSweeney,BBL,Batsman,2,Recent-Form Batters
+NCR Larkin,BBL,Batsman,2,Recent-Form Batters
+NE Bonner,CPL,Batsman,3,Developing Batters
+NJ Maddinson,BBL,Batsman,1,Elite High-Volume Batters
+NJ Maddinson,T20_Blast,Batsman,0,"Established Batters, Low Recent Activity"
+NJ O'Brien,T20_Blast,Wicketkeeper-Batsman,3,Developing Batters
+NJ Reardon,BBL,Batsman,0,"Established Batters, Low Recent Activity"
+NJ Selman,T20_Blast,Batsman,0,"Established Batters, Low Recent Activity"
+NLJ Browne,T20_Blast,Batsman,3,Developing Batters
+NR Hobson,BBL,Batsman,2,Recent-Form Batters
+NR Welch,T20_Blast,Batsman,2,Recent-Form Batters
+NRD Compton,T20_Blast,Batsman,0,"Established Batters, Low Recent Activity"
+NRT Gubbins,T20_Blast,Batsman,3,Developing Batters
+NT Broom,T20_Blast,Batsman,3,Developing Batters
+NV Ojha,IPL,Wicketkeeper-Batsman,0,"Established Batters, Low Recent Activity"
+Najibullah Zadran,CPL,Batsman,3,Developing Batters
+Nikhil Chaudhary,BBL,Batsman,2,Recent-Form Batters
+Nithish Kumar Reddy,IPL,Batsman,2,Recent-Form Batters
+O Davies,BBL,Batsman,2,Recent-Form Batters
+OA Shah,BBL,Batsman,0,"Established Batters, Low Recent Activity"
+OA Shah,IPL,Batsman,0,"Established Batters, Low Recent Activity"
+OA Shah,T20_Blast,Batsman,0,"Established Batters, Low Recent Activity"
+OB Cox,T20_Blast,Wicketkeeper-Batsman,1,Elite High-Volume Batters
+OG Robinson,T20_Blast,Wicketkeeper-Batsman,2,Recent-Form Batters
+OJ Carter,T20_Blast,Batsman,3,Developing Batters
+OJ Pope,T20_Blast,Wicketkeeper-Batsman,2,Recent-Form Batters
+P Dogra,IPL,Batsman,3,Developing Batters
+P Mustard,T20_Blast,Wicketkeeper-Batsman,0,"Established Batters, Low Recent Activity"
+P Simran Singh,IPL,Batsman,2,Recent-Form Batters
+PA Patel,IPL,Wicketkeeper-Batsman,1,Elite High-Volume Batters
+PA Reddy,IPL,Batsman,3,Developing Batters
+PBB Rajapaksa,CPL,Batsman,2,Recent-Form Batters
+PBB Rajapaksa,IPL,Batsman,2,Recent-Form Batters
+PC Valthaty,IPL,Batsman,3,Developing Batters
+PD Salt,BBL,Wicketkeeper-Batsman,0,"Established Batters, Low Recent Activity"
+PD Salt,IPL,Wicketkeeper-Batsman,2,Recent-Form Batters
+PD Salt,PSL,Wicketkeeper-Batsman,3,Developing Batters
+PD Salt,T20_Blast,Wicketkeeper-Batsman,1,Elite High-Volume Batters
+PD Trego,T20_Blast,Batsman,0,"Established Batters, Low Recent Activity"
+PJ Forrest,BBL,Batsman,3,Developing Batters
+PJ Horton,T20_Blast,Batsman,0,"Established Batters, Low Recent Activity"
+PJ Malan,T20_Blast,Batsman,2,Recent-Form Batters
+PK Garg,IPL,Batsman,3,Developing Batters
+PM Nevill,BBL,Wicketkeeper-Batsman,3,Developing Batters
+PP Chawla,IPL,Batsman,3,Developing Batters
+PP Shaw,IPL,Batsman,1,Elite High-Volume Batters
+PR Stirling,PSL,Batsman,2,Recent-Form Batters
+PSP Handscomb,BBL,Wicketkeeper-Batsman,0,"Established Batters, Low Recent Activity"
+PSP Handscomb,T20_Blast,Wicketkeeper-Batsman,2,Recent-Form Batters
+PWA Mulder,T20_Blast,Batsman,2,Recent-Form Batters
+Q de Kock,CPL,Wicketkeeper-Batsman,2,Recent-Form Batters
+Q de Kock,IPL,Wicketkeeper-Batsman,1,Elite High-Volume Batters
+R Ashwin,IPL,Batsman,3,Developing Batters
+R Dravid,IPL,Batsman,0,"Established Batters, Low Recent Activity"
+R Parag,IPL,Batsman,2,Recent-Form Batters
+R Powell,CPL,Batsman,1,Elite High-Volume Batters
+R Powell,IPL,Batsman,2,Recent-Form Batters
+R Powell,PSL,Batsman,2,Recent-Form Batters
+R Ravindra,IPL,Batsman,2,Recent-Form Batters
+R Sathish,IPL,Batsman,3,Developing Batters
+R Vasconcelos,T20_Blast,Wicketkeeper-Batsman,2,Recent-Form Batters
+RA Tripathi,IPL,Batsman,1,Elite High-Volume Batters
+RA Whiteley,T20_Blast,Batsman,1,Elite High-Volume Batters
+RC Davies,T20_Blast,Wicketkeeper-Batsman,3,Developing Batters
+RD Gaikwad,IPL,Batsman,1,Elite High-Volume Batters
+RE Levi,T20_Blast,Batsman,1,Elite High-Volume Batters
+RG Sharma,IPL,Batsman,1,Elite High-Volume Batters
+RGL Carters,BBL,Batsman,3,Developing Batters
+RI Keogh,T20_Blast,Batsman,0,"Established Batters, Low Recent Activity"
+RJ Burns,T20_Blast,Batsman,2,Recent-Form Batters
+RJ Das,T20_Blast,Batsman,2,Recent-Form Batters
+RJ Gibson,BBL,Batsman,3,Developing Batters
+RJ Quiney,BBL,Batsman,0,"Established Batters, Low Recent Activity"
+RK Oliver,T20_Blast,Batsman,0,"Established Batters, Low Recent Activity"
+RK Patel,T20_Blast,Batsman,2,Recent-Form Batters
+RK Singh,IPL,Batsman,2,Recent-Form Batters
+RM Patidar,IPL,Batsman,2,Recent-Form Batters
+RM Yates,T20_Blast,Batsman,2,Recent-Form Batters
+RN ten Doeschate,IPL,Batsman,0,"Established Batters, Low Recent Activity"
+RN ten Doeschate,T20_Blast,Batsman,1,Elite High-Volume Batters
+RP Jones,T20_Blast,Batsman,0,"Established Batters, Low Recent Activity"
+RR Pant,IPL,Wicketkeeper-Batsman,1,Elite High-Volume Batters
+RR Rossouw,BBL,Batsman,3,Developing Batters
+RR Rossouw,IPL,Batsman,2,Recent-Form Batters
+RR Rossouw,PSL,Batsman,1,Elite High-Volume Batters
+RR Rossouw,T20_Blast,Batsman,2,Recent-Form Batters
+RS Bopara,IPL,Batsman,0,"Established Batters, Low Recent Activity"
+RS Bopara,PSL,Batsman,0,"Established Batters, Low Recent Activity"
+RV Uthappa,IPL,Wicketkeeper-Batsman,1,Elite High-Volume Batters
+RWT Key,T20_Blast,Batsman,0,"Established Batters, Low Recent Activity"
+Rahmanullah Gurbaz,CPL,Batsman,2,Recent-Form Batters
+Rahmanullah Gurbaz,IPL,Batsman,2,Recent-Form Batters
+Rahmanullah Gurbaz,PSL,Batsman,2,Recent-Form Batters
+Ramandeep Singh,IPL,Batsman,2,Recent-Form Batters
+Rashid Khan,IPL,Batsman,2,Recent-Form Batters
+S Anirudha,IPL,Batsman,3,Developing Batters
+S Badrinath,IPL,Batsman,0,"Established Batters, Low Recent Activity"
+S Dhawan,IPL,Batsman,1,Elite High-Volume Batters
+S Dube,IPL,Batsman,2,Recent-Form Batters
+S Milenko,BBL,Batsman,3,Developing Batters
+S Sohal,IPL,Batsman,3,Developing Batters
+SA Asnodkar,IPL,Batsman,3,Developing Batters
+SA Northeast,T20_Blast,Batsman,1,Elite High-Volume Batters
+SA Yadav,IPL,Batsman,1,Elite High-Volume Batters
+SA Zaib,T20_Blast,Batsman,2,Recent-Form Batters
+SB Harper,BBL,Wicketkeeper-Batsman,1,Elite High-Volume Batters
+SC Ganguly,IPL,Batsman,0,"Established Batters, Low Recent Activity"
+SD Heazlett,BBL,Batsman,2,Recent-Form Batters
+SD Hope,CPL,Wicketkeeper-Batsman,1,Elite High-Volume Batters
+SE Gotch,BBL,Wicketkeeper-Batsman,3,Developing Batters
+SE Marsh,BBL,Batsman,1,Elite High-Volume Batters
+SE Marsh,IPL,Batsman,0,"Established Batters, Low Recent Activity"
+SE Marsh,T20_Blast,Batsman,0,"Established Batters, Low Recent Activity"
+SE Rutherford,CPL,Batsman,2,Recent-Form Batters
+SE Rutherford,PSL,Batsman,2,Recent-Form Batters
+SG Budinger,T20_Blast,Batsman,3,Developing Batters
+SL Elstone,T20_Blast,Batsman,3,Developing Batters
+SM Davies,T20_Blast,Wicketkeeper-Batsman,0,"Established Batters, Low Recent Activity"
+SM Ervine,T20_Blast,Batsman,0,"Established Batters, Low Recent Activity"
+SM Katich,BBL,Batsman,0,"Established Batters, Low Recent Activity"
+SM Katich,IPL,Batsman,0,"Established Batters, Low Recent Activity"
+SM Whiteman,BBL,Wicketkeeper-Batsman,3,Developing Batters
+SN Khan,IPL,Batsman,2,Recent-Form Batters
+SO Dowrich,CPL,Batsman,3,Developing Batters
+SO Hetmyer,CPL,Batsman,1,Elite High-Volume Batters
+SO Hetmyer,IPL,Batsman,2,Recent-Form Batters
+SP Fleming,IPL,Batsman,3,Developing Batters
+SP Goswami,IPL,Wicketkeeper-Batsman,3,Developing Batters
+SPD Smith,BBL,Batsman,2,Recent-Form Batters
+SPD Smith,IPL,Batsman,1,Elite High-Volume Batters
+SR Dickson,T20_Blast,Batsman,2,Recent-Form Batters
+SR Hain,BBL,Batsman,3,Developing Batters
+SR Hain,T20_Blast,Batsman,1,Elite High-Volume Batters
+SR Taylor,CPL,Batsman,3,Developing Batters
+SR Tendulkar,IPL,Batsman,0,"Established Batters, Low Recent Activity"
+SR Watson,CPL,Batsman,0,"Established Batters, Low Recent Activity"
+SS Eskinazi,BBL,Batsman,3,Developing Batters
+SS Eskinazi,T20_Blast,Batsman,1,Elite High-Volume Batters
+SS Iyer,IPL,Batsman,1,Elite High-Volume Batters
+SS Prabhudessai,IPL,Batsman,3,Developing Batters
+SS Tiwary,IPL,Batsman,0,"Established Batters, Low Recent Activity"
+SSJ Brooks,CPL,Batsman,2,Recent-Form Batters
+SV Samson,IPL,Wicketkeeper-Batsman,1,Elite High-Volume Batters
+SW Billings,BBL,Wicketkeeper-Batsman,2,Recent-Form Batters
+SW Billings,IPL,Wicketkeeper-Batsman,2,Recent-Form Batters
+SW Billings,PSL,Wicketkeeper-Batsman,2,Recent-Form Batters
+SW Billings,T20_Blast,Wicketkeeper-Batsman,1,Elite High-Volume Batters
+SW Poynter,T20_Blast,Wicketkeeper-Batsman,0,"Established Batters, Low Recent Activity"
+Sachin Baby,IPL,Batsman,3,Developing Batters
+Sahibzada Farhan,PSL,Batsman,2,Recent-Form Batters
+Saim Ayub,CPL,Batsman,2,Recent-Form Batters
+Saim Ayub,PSL,Batsman,2,Recent-Form Batters
+Sarfraz Ahmed,PSL,Wicketkeeper-Batsman,1,Elite High-Volume Batters
+Saud Shakeel,PSL,Batsman,2,Recent-Form Batters
+Shan Masood,PSL,Batsman,1,Elite High-Volume Batters
+Shan Masood,T20_Blast,Batsman,2,Recent-Form Batters
+Sharjeel Khan,PSL,Batsman,2,Recent-Form Batters
+Shashank Singh,IPL,Batsman,2,Recent-Form Batters
+Shubman Gill,IPL,Batsman,1,Elite High-Volume Batters
+Sikandar Raza,PSL,Batsman,2,Recent-Form Batters
+Sohaib Maqsood,PSL,Batsman,2,Recent-Form Batters
+Sohail Akhtar,PSL,Batsman,2,Recent-Form Batters
+T Banton,BBL,Wicketkeeper-Batsman,2,Recent-Form Batters
+T Banton,T20_Blast,Wicketkeeper-Batsman,1,Elite High-Volume Batters
+T Kelly,BBL,Batsman,3,Developing Batters
+T Kohler-Cadmore,PSL,Batsman,2,Recent-Form Batters
+T Kohler-Cadmore,T20_Blast,Batsman,1,Elite High-Volume Batters
+T Poynton,T20_Blast,Batsman,3,Developing Batters
+T Stubbs,IPL,Batsman,2,Recent-Form Batters
+T Webster,CPL,Batsman,3,Developing Batters
+T Westley,T20_Blast,Batsman,1,Elite High-Volume Batters
+TA Wood,T20_Blast,Batsman,2,Recent-Form Batters
+TB Abell,T20_Blast,Batsman,1,Elite High-Volume Batters
+TC Bruce,T20_Blast,Batsman,3,Developing Batters
+TC Knight,T20_Blast,Batsman,0,"Established Batters, Low Recent Activity"
+TC Smith,T20_Blast,Batsman,0,"Established Batters, Low Recent Activity"
+TD Paine,BBL,Wicketkeeper-Batsman,0,"Established Batters, Low Recent Activity"
+TE Albert,T20_Blast,Batsman,2,Recent-Form Batters
+TF Rogers,BBL,Batsman,3,Developing Batters
+TGR Clark,T20_Blast,Batsman,2,Recent-Form Batters
+TH David,BBL,Batsman,2,Recent-Form Batters
+TH David,CPL,Batsman,2,Recent-Form Batters
+TH David,IPL,Batsman,2,Recent-Form Batters
+TH David,PSL,Batsman,2,Recent-Form Batters
+TH David,T20_Blast,Batsman,2,Recent-Form Batters
+TIF Triffitt,BBL,Batsman,3,Developing Batters
+TJ Moores,T20_Blast,Wicketkeeper-Batsman,1,Elite High-Volume Batters
+TJ Prest,T20_Blast,Batsman,2,Recent-Form Batters
+TJ Wells,T20_Blast,Batsman,0,"Established Batters, Low Recent Activity"
+TL Seifert,BBL,Wicketkeeper-Batsman,3,Developing Batters
+TL Seifert,CPL,Wicketkeeper-Batsman,2,Recent-Form Batters
+TL Suman,IPL,Batsman,3,Developing Batters
+TLW Cooper,BBL,Batsman,0,"Established Batters, Low Recent Activity"
+TM Beaton,BBL,Batsman,0,"Established Batters, Low Recent Activity"
+TM Dilshan,T20_Blast,Batsman,3,Developing Batters
+TM Head,IPL,Batsman,2,Recent-Form Batters
+TM Head,T20_Blast,Batsman,0,"Established Batters, Low Recent Activity"
+TP Alsop,T20_Blast,Wicketkeeper-Batsman,1,Elite High-Volume Batters
+TP Ludeman,BBL,Wicketkeeper-Batsman,0,"Established Batters, Low Recent Activity"
+TR Ambrose,T20_Blast,Wicketkeeper-Batsman,3,Developing Batters
+TR Bevan,T20_Blast,Batsman,3,Developing Batters
+TR Birt,BBL,Batsman,0,"Established Batters, Low Recent Activity"
+TS Muyeye,T20_Blast,Batsman,2,Recent-Form Batters
+TWM Latham,T20_Blast,Batsman,0,"Established Batters, Low Recent Activity"
+Tamim Iqbal,PSL,Batsman,0,"Established Batters, Low Recent Activity"
+Tilak Varma,IPL,Batsman,2,Recent-Form Batters
+UBT Chand,IPL,Batsman,3,Developing Batters
+UT Khawaja,BBL,Batsman,1,Elite High-Volume Batters
+UT Khawaja,T20_Blast,Batsman,0,"Established Batters, Low Recent Activity"
+Umar Akmal,CPL,Wicketkeeper-Batsman,3,Developing Batters
+Umar Akmal,PSL,Wicketkeeper-Batsman,2,Recent-Form Batters
+Umar Amin,PSL,Batsman,3,Developing Batters
+Usman Khan,PSL,Batsman,2,Recent-Form Batters
+V Chopra,T20_Blast,Batsman,1,Elite High-Volume Batters
+V Kohli,IPL,Batsman,1,Elite High-Volume Batters
+V Sehwag,IPL,Batsman,1,Elite High-Volume Batters
+V Shankar,IPL,Batsman,2,Recent-Form Batters
+VR Iyer,IPL,Batsman,2,Recent-Form Batters
+VVS Laxman,IPL,Batsman,3,Developing Batters
+WAR Fraine,T20_Blast,Batsman,2,Recent-Form Batters
+WCF Smeed,PSL,Batsman,2,Recent-Form Batters
+WCF Smeed,T20_Blast,Batsman,1,Elite High-Volume Batters
+WEL Buttleman,T20_Blast,Batsman,3,Developing Batters
+WG Bosisto,BBL,Batsman,3,Developing Batters
+WKD Perkins,CPL,Batsman,3,Developing Batters
+WP Saha,IPL,Wicketkeeper-Batsman,1,Elite High-Volume Batters
+WT Root,T20_Blast,Batsman,3,Developing Batters
+WT Smale,T20_Blast,Batsman,2,Recent-Form Batters
+WTS Porterfield,T20_Blast,Batsman,0,"Established Batters, Low Recent Activity"
+Y Nagar,IPL,Batsman,3,Developing Batters
+Y Venugopal Rao,IPL,Batsman,0,"Established Batters, Low Recent Activity"
+YBK Jaiswal,IPL,Batsman,2,Recent-Form Batters
+YV Takawale,IPL,Wicketkeeper-Batsman,3,Developing Batters
+Yasir Khan,PSL,Batsman,2,Recent-Form Batters
+Z Crawley,BBL,Batsman,2,Recent-Form Batters
+Z Crawley,T20_Blast,Batsman,2,Recent-Form Batters
+Zeeshan Ashraf,PSL,Batsman,3,Developing Batters

@@ -1,0 +1,37 @@
+{
+  "target_season": 2024,
+  "initial_eligible_players": 711,
+  "included_players": 682,
+  "excluded_players": 29,
+  "exclusion_reason_counts": {
+    "missing point-in-time feature(s) required for role 'bowling'": 14,
+    "missing point-in-time feature(s) required for role 'batting'": 13,
+    "missing point-in-time feature(s) required for role 'allrounder'": 2
+  },
+  "included_by_role": {
+    "Batsman": 246,
+    "Bowler": 240,
+    "All-Rounder": 135,
+    "Wicketkeeper-Batsman": 61
+  },
+  "included_by_league": {
+    "T20_Blast": 249,
+    "IPL": 164,
+    "BBL": 119,
+    "PSL": 76,
+    "CPL": 74
+  },
+  "excluded_by_role": {
+    "Bowler": 14,
+    "Batsman": 12,
+    "All-Rounder": 2,
+    "Wicketkeeper-Batsman": 1
+  },
+  "excluded_by_league": {
+    "T20_Blast": 10,
+    "IPL": 7,
+    "PSL": 5,
+    "BBL": 4,
+    "CPL": 3
+  }
+}

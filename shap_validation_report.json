@@ -1,0 +1,70 @@
+{
+  "notebook": "22_FT_transformer_SHAP.ipynb",
+  "explained_model": "FT-Transformer (frozen primary deployment model)",
+  "n_players_explained": 711,
+  "n_features": 76,
+  "class_order": [
+    "Poor",
+    "Average",
+    "Elite"
+  ],
+  "explainer_config": {
+    "attempted_first": "GradientExplainer",
+    "attempted_first_succeeded": false,
+    "attempted_first_error": "AttributeError(\"'GradientExplainer' object has no attribute 'expected_value'\")",
+    "selected_explainer": "PermutationExplainer",
+    "selection_rule": "1) Attempt shap.DeepExplainer or shap.GradientExplainer against the frozen FT-Transformer. 2) If tensor/additivity compatibility fails (expected for this dual continuous+categorical-embedding attention architecture, since gradient-based explainers assume a single differentiable input tensor), fall back to model-agnostic shap.PermutationExplainer through the Phase 3 prediction wrapper. The choice is made on correctness/reproducibility/feasibility grounds only, declared before any 2024 player is explained, and is not revisited based on explanation attractiveness.",
+    "background_raw_rows": 80,
+    "background_kmeans_k": 10,
+    "max_evals": 153,
+    "seed": 42
+  },
+  "reproduction_max_abs_diff_vs_notebook17": 2.9734802287073592e-08,
+  "reproduction_max_abs_diff_vs_notebook18": 2.9734802287073592e-08,
+  "additivity_reconstruction_error_mean": 2.6573040929864923e-09,
+  "additivity_reconstruction_error_max": 1.0728835941886672e-07,
+  "background_stability_mean_cosine_similarity": 0.9332928470040526,
+  "supplementary_budget_seed_stability_mean_cosine_similarity": 0.9728285420895311,
+  "supplementary_budget_seed_stability_min_cosine_similarity": 0.7516791821328311,
+  "supplementary_stability_stable": true,
+  "direction_sanity_checks": {
+    "current_wickets": 0.956252448178315,
+    "current_runs": 0.9400714583746163,
+    "career_runs": 0.803358843573141,
+    "current_economy_rate": -0.9877437949436436,
+    "career_economy_rate": -0.8041640077251367
+  },
+  "phase8_checks_passed": 12,
+  "phase8_checks_total": 12,
+  "model_weights_hash_at_load": "a365bda11174fca0c018068c2b90f4bf2368b111f1171484613f865273731afc",
+  "model_weights_hash_at_end": "a365bda11174fca0c018068c2b90f4bf2368b111f1171484613f865273731afc",
+  "model_weights_unchanged": true,
+  "forbidden_columns_checked": [
+    "y_true",
+    "tier_encoded",
+    "tier_season_relative",
+    "performance_target_raw",
+    "performance_target_raw_bat",
+    "performance_target_raw_bowl",
+    "target_season"
+  ],
+  "background_source_seasons": [
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "causal_disclaimer": "SHAP attributions describe how the fitted FT-Transformer used each feature for these specific predictions. They are not causal claims about cricket performance.",
+  "library_versions": {
+    "shap": "0.52.0",
+    "torch": "2.13.0+cpu",
+    "pandas": "2.3.3",
+    "numpy": "2.3.5",
+    "rtdl_revisiting_models": "0.0.2"
+  },
+  "random_seed": 42,
+  "generated_at": "2026-08-17T15:34:56.844965"
+}

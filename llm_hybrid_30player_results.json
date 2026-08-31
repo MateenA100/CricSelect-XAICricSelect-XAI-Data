@@ -1,0 +1,1053 @@
+{
+  "per_player": [
+    {
+      "player": "M Kelly",
+      "league": "BBL",
+      "role": "Bowler",
+      "predicted_tier": "Elite",
+      "confidence": "Low",
+      "attempt1_passed": true,
+      "attempt1_failures": [],
+      "retry_used": false,
+      "attempt2_passed": null,
+      "attempt2_failures": [],
+      "llm_passed_after_retry": true,
+      "template_fallback_used": false,
+      "generation_time_seconds": 13.050633668899536,
+      "completion_tokens": 27,
+      "raw_attempt_1": "{\"selector_summary\": \"Predicted Elite tier with low confidence due to verified limiting and missing evidence, but supported by verified factors.\"}",
+      "raw_attempt_2": null,
+      "explanation": {
+        "headline": "Elite-tier forecast with low confidence",
+        "prediction_summary": "The model predicts a Elite tier for M Kelly (Bowler, BBL) with 43% probability.",
+        "supporting_factors": [
+          "Playing role (Bowler)",
+          "3-season rolling wickets per match (1.79)",
+          "Career wickets per match (1.49)"
+        ],
+        "limiting_factors": [
+          "Recent-3-season change vs career: wickets per match (0.3)"
+        ],
+        "selector_summary": "Predicted Elite tier with low confidence due to verified limiting and missing evidence, but supported by verified factors.",
+        "uncertainty_note": "The probabilities are close together, so this forecast should be treated cautiously.",
+        "disclaimer": "This is a model-based forecast and should be considered alongside team requirements, not as a guarantee of future performance."
+      }
+    },
+    {
+      "player": "K Alleyne",
+      "league": "CPL",
+      "role": "Bowler",
+      "predicted_tier": "Poor",
+      "confidence": "High",
+      "attempt1_passed": true,
+      "attempt1_failures": [],
+      "retry_used": false,
+      "attempt2_passed": null,
+      "attempt2_failures": [],
+      "llm_passed_after_retry": true,
+      "template_fallback_used": false,
+      "generation_time_seconds": 7.483463287353516,
+      "completion_tokens": 26,
+      "raw_attempt_1": "{\"selector_summary\": \"Predicted Poor tier with High confidence, supported by verified evidence, but reduced by verified limiting factors.\"}",
+      "raw_attempt_2": null,
+      "explanation": {
+        "headline": "Poor-tier forecast with high confidence",
+        "prediction_summary": "The model predicts a Poor tier for K Alleyne (Bowler, CPL) with 62% probability.",
+        "supporting_factors": [
+          "Current-season matches with a bowling spell (1.0)",
+          "Current-season balls bowled (2.0)",
+          "3-season rolling economy rate (13.12)"
+        ],
+        "limiting_factors": [
+          "Number of seasons with bowling data (2.0)",
+          "Playing role (Bowler)"
+        ],
+        "selector_summary": "Predicted Poor tier with High confidence, supported by verified evidence, but reduced by verified limiting factors.",
+        "uncertainty_note": "The probabilities are clearly separated, so this forecast can be treated with reasonable confidence.",
+        "disclaimer": "This is a model-based forecast and should be considered alongside team requirements, not as a guarantee of future performance."
+      }
+    },
+    {
+      "player": "S Gopal",
+      "league": "IPL",
+      "role": "Bowler",
+      "predicted_tier": "Poor",
+      "confidence": "Low",
+      "attempt1_passed": true,
+      "attempt1_failures": [],
+      "retry_used": false,
+      "attempt2_passed": null,
+      "attempt2_failures": [],
+      "llm_passed_after_retry": true,
+      "template_fallback_used": false,
+      "generation_time_seconds": 7.348858594894409,
+      "completion_tokens": 26,
+      "raw_attempt_1": "{\"selector_summary\": \"Predicted Poor tier with Low confidence, influenced by verified limiting and missing evidence, and supporting factors.\"}",
+      "raw_attempt_2": null,
+      "explanation": {
+        "headline": "Poor-tier forecast with low confidence",
+        "prediction_summary": "The model predicts a Poor tier for S Gopal (Bowler, IPL) with 42% probability.",
+        "supporting_factors": [
+          "Recent-3-season change vs career: economy (3.690000000000001)",
+          "3-season rolling economy rate (11.8)"
+        ],
+        "limiting_factors": [
+          "Recent-3-season change vs career: wickets per match (-0.77)",
+          "Playing role (Bowler)"
+        ],
+        "selector_summary": "Predicted Poor tier with Low confidence, influenced by verified limiting and missing evidence, and supporting factors.",
+        "uncertainty_note": "The probabilities are close together, so this forecast should be treated cautiously.",
+        "disclaimer": "This is a model-based forecast and should be considered alongside team requirements, not as a guarantee of future performance."
+      }
+    },
+    {
+      "player": "Shadab Khan",
+      "league": "PSL",
+      "role": "All-Rounder",
+      "predicted_tier": "Elite",
+      "confidence": "High",
+      "attempt1_passed": true,
+      "attempt1_failures": [],
+      "retry_used": false,
+      "attempt2_passed": null,
+      "attempt2_failures": [],
+      "llm_passed_after_retry": true,
+      "template_fallback_used": false,
+      "generation_time_seconds": 7.053902864456177,
+      "completion_tokens": 24,
+      "raw_attempt_1": "{\"selector_summary\": \"Elite tier forecast with high confidence, supported by verified evidence, but reduced by limiting factors.\"}",
+      "raw_attempt_2": null,
+      "explanation": {
+        "headline": "Elite-tier forecast with high confidence",
+        "prediction_summary": "The model predicts a Elite tier for Shadab Khan (All-Rounder, PSL) with 66% probability.",
+        "supporting_factors": [
+          "Current-season balls bowled (240.0)",
+          "Current-season wickets (12.0)",
+          "Career runs conceded (1934.0)"
+        ],
+        "limiting_factors": [
+          "Recent-3-season change vs career: wickets per match (0.25)",
+          "Number of seasons with bowling data (7.0)"
+        ],
+        "selector_summary": "Elite tier forecast with high confidence, supported by verified evidence, but reduced by limiting factors.",
+        "uncertainty_note": "The probabilities are clearly separated, so this forecast can be treated with reasonable confidence.",
+        "disclaimer": "This is a model-based forecast and should be considered alongside team requirements, not as a guarantee of future performance."
+      }
+    },
+    {
+      "player": "MK Andersson",
+      "league": "T20_Blast",
+      "role": "All-Rounder",
+      "predicted_tier": "Elite",
+      "confidence": "Moderate",
+      "attempt1_passed": true,
+      "attempt1_failures": [],
+      "retry_used": false,
+      "attempt2_passed": null,
+      "attempt2_failures": [],
+      "llm_passed_after_retry": true,
+      "template_fallback_used": false,
+      "generation_time_seconds": 7.177011966705322,
+      "completion_tokens": 24,
+      "raw_attempt_1": "{\"selector_summary\": \"Elite tier forecast with moderate confidence, supported by verified evidence, but reduced by limiting factors.\"}",
+      "raw_attempt_2": null,
+      "explanation": {
+        "headline": "Elite-tier forecast with moderate confidence",
+        "prediction_summary": "The model predicts a Elite tier for MK Andersson (All-Rounder, T20_Blast) with 52% probability.",
+        "supporting_factors": [
+          "Current-season balls bowled (215.0)",
+          "Current-season matches with a bowling spell (12.0)",
+          "Current-season wickets (11.0)"
+        ],
+        "limiting_factors": [
+          "3-season rolling economy rate (10.79)",
+          "Season-to-season variability in wickets per match (0.7056675326714887)"
+        ],
+        "selector_summary": "Elite tier forecast with moderate confidence, supported by verified evidence, but reduced by limiting factors.",
+        "uncertainty_note": "There is reasonable separation between tiers, but another tier remains plausible, so this forecast should be treated as indicative rather than certain.",
+        "disclaimer": "This is a model-based forecast and should be considered alongside team requirements, not as a guarantee of future performance."
+      }
+    },
+    {
+      "player": "J Fraser-McGurk",
+      "league": "BBL",
+      "role": "Batsman",
+      "predicted_tier": "Average",
+      "confidence": "Moderate",
+      "attempt1_passed": false,
+      "attempt1_failures": [
+        "missing_information_not_acknowledged"
+      ],
+      "retry_used": true,
+      "attempt2_passed": true,
+      "attempt2_failures": [],
+      "llm_passed_after_retry": true,
+      "template_fallback_used": false,
+      "generation_time_seconds": 14.813615083694458,
+      "completion_tokens": 52,
+      "raw_attempt_1": "{\"selector_summary\": \"Predicted Average tier with Moderate confidence, supported by verified evidence, but limited by unavailable information.\"}",
+      "raw_attempt_2": "{\"selector_summary\": \"Predicted average tier with moderate confidence, influenced by verified supporting and limiting factors, and some missing information.\"}",
+      "explanation": {
+        "headline": "Average-tier forecast with moderate confidence",
+        "prediction_summary": "The model predicts a Average tier for J Fraser-McGurk (Batsman, BBL) with 52% probability.",
+        "supporting_factors": [
+          "Career runs conceded (10.0)",
+          "Career wickets (0.0)",
+          "Playing role (Batsman)"
+        ],
+        "limiting_factors": [
+          "Number of seasons with bowling data (1.0)",
+          "Number of seasons with batting data (4.0)"
+        ],
+        "selector_summary": "Predicted average tier with moderate confidence, influenced by verified supporting and limiting factors, and some missing information.",
+        "uncertainty_note": "There is reasonable separation between tiers, but another tier remains plausible, so this forecast should be treated as indicative rather than certain.",
+        "disclaimer": "This is a model-based forecast and should be considered alongside team requirements, not as a guarantee of future performance."
+      }
+    },
+    {
+      "player": "ADS Fletcher",
+      "league": "CPL",
+      "role": "Wicketkeeper-Batsman",
+      "predicted_tier": "Average",
+      "confidence": "Low",
+      "attempt1_passed": true,
+      "attempt1_failures": [],
+      "retry_used": false,
+      "attempt2_passed": null,
+      "attempt2_failures": [],
+      "llm_passed_after_retry": true,
+      "template_fallback_used": false,
+      "generation_time_seconds": 7.676313400268555,
+      "completion_tokens": 26,
+      "raw_attempt_1": "{\"selector_summary\": \"Predicted average tier with low confidence due to verified limiting and missing evidence, supported by verified factors.\"}",
+      "raw_attempt_2": null,
+      "explanation": {
+        "headline": "Average-tier forecast with low confidence",
+        "prediction_summary": "The model predicts a Average tier for ADS Fletcher (Wicketkeeper-Batsman, CPL) with 48% probability.",
+        "supporting_factors": [
+          "Career runs conceded (20.0)",
+          "Career balls bowled (12.0)",
+          "Career wickets (0.0)"
+        ],
+        "limiting_factors": [
+          "Number of seasons with bowling data (2.0)",
+          "Career balls faced (2246.0)"
+        ],
+        "selector_summary": "Predicted average tier with low confidence due to verified limiting and missing evidence, supported by verified factors.",
+        "uncertainty_note": "The probabilities are close together, so this forecast should be treated cautiously.",
+        "disclaimer": "This is a model-based forecast and should be considered alongside team requirements, not as a guarantee of future performance."
+      }
+    },
+    {
+      "player": "BTJ Wheal",
+      "league": "T20_Blast",
+      "role": "Bowler",
+      "predicted_tier": "Elite",
+      "confidence": "Low",
+      "attempt1_passed": true,
+      "attempt1_failures": [],
+      "retry_used": false,
+      "attempt2_passed": null,
+      "attempt2_failures": [],
+      "llm_passed_after_retry": true,
+      "template_fallback_used": false,
+      "generation_time_seconds": 6.918560028076172,
+      "completion_tokens": 27,
+      "raw_attempt_1": "{\"selector_summary\": \"Predicted Elite tier with low confidence due to verified limiting and missing evidence, but supported by verified factors.\"}",
+      "raw_attempt_2": null,
+      "explanation": {
+        "headline": "Elite-tier forecast with low confidence",
+        "prediction_summary": "The model predicts a Elite tier for BTJ Wheal (Bowler, T20_Blast) with 50% probability.",
+        "supporting_factors": [
+          "Playing role (Bowler)",
+          "2-season rolling wickets per match (1.69)",
+          "3-season rolling wickets per match (1.5)"
+        ],
+        "limiting_factors": [
+          "Career batting reliability (0.2)"
+        ],
+        "selector_summary": "Predicted Elite tier with low confidence due to verified limiting and missing evidence, but supported by verified factors.",
+        "uncertainty_note": "The probabilities are close together, so this forecast should be treated cautiously.",
+        "disclaimer": "This is a model-based forecast and should be considered alongside team requirements, not as a guarantee of future performance."
+      }
+    },
+    {
+      "player": "Sohail Khan",
+      "league": "PSL",
+      "role": "All-Rounder",
+      "predicted_tier": "Poor",
+      "confidence": "Moderate",
+      "attempt1_passed": false,
+      "attempt1_failures": [
+        "missing_information_not_acknowledged"
+      ],
+      "retry_used": true,
+      "attempt2_passed": false,
+      "attempt2_failures": [
+        "summary_word_count:13",
+        "confidence_missing",
+        "supporting_evidence_not_acknowledged"
+      ],
+      "llm_passed_after_retry": false,
+      "template_fallback_used": true,
+      "generation_time_seconds": 13.823173999786377,
+      "completion_tokens": 46,
+      "raw_attempt_1": "{\"selector_summary\": \"Predicted Poor tier with Moderate confidence, supported by verified evidence but limited by unavailable information.\"}",
+      "raw_attempt_2": "{\"selector_summary\": \"Predicted tier is Poor, but verified limiting evidence and missing information reduce confidence.\"}",
+      "explanation": {
+        "headline": "Poor-tier forecast with moderate confidence",
+        "prediction_summary": "The model predicts a Poor tier for Sohail Khan (All-Rounder, PSL) with 51% probability.",
+        "supporting_factors": [
+          "2-season rolling wickets per match (0.0)"
+        ],
+        "limiting_factors": [
+          "Recent-3-season change vs career: wickets per match (-0.69)",
+          "Has 2-season rolling batting (0.0)"
+        ],
+        "selector_summary": "2-season rolling wickets per match (0.0) supports this prediction. Recent-3-season change vs career: wickets per match (-0.69), Has 2-season rolling batting (0.0) reduce confidence in this prediction. Current-season matches with a batting innings: No current-season batting record was available; Current-season batting average: No current-season batting record was available.",
+        "uncertainty_note": "There is reasonable separation between tiers, but another tier remains plausible, so this forecast should be treated as indicative rather than certain.",
+        "disclaimer": "This is a model-based forecast and should be considered alongside team requirements, not as a guarantee of future performance."
+      }
+    },
+    {
+      "player": "DA Warner",
+      "league": "BBL",
+      "role": "Batsman",
+      "predicted_tier": "Poor",
+      "confidence": "High",
+      "attempt1_passed": false,
+      "attempt1_failures": [
+        "missing_information_not_acknowledged"
+      ],
+      "retry_used": true,
+      "attempt2_passed": false,
+      "attempt2_failures": [
+        "confidence_missing"
+      ],
+      "llm_passed_after_retry": false,
+      "template_fallback_used": true,
+      "generation_time_seconds": 15.686880588531494,
+      "completion_tokens": 55,
+      "raw_attempt_1": "{\"selector_summary\": \"Predicted Poor tier with High confidence, supported by verified evidence, but limited by unavailable information and conflicting data.\"}",
+      "raw_attempt_2": "{\"selector_summary\": \"Predicted tier of Poor is supported by verified evidence, but limiting factors and missing information reduce overall confidence.\"}",
+      "explanation": {
+        "headline": "Poor-tier forecast with high confidence",
+        "prediction_summary": "The model predicts a Poor tier for DA Warner (Batsman, BBL) with 66% probability.",
+        "supporting_factors": [
+          "Season-to-season variability in runs per match (39.72656541912477)",
+          "Playing role (Batsman)",
+          "Current-season matches with a batting innings (2.0)"
+        ],
+        "limiting_factors": [
+          "Recent-3-season change vs career: runs per match (-8.739999999999998)",
+          "Career strike rate (134.38)"
+        ],
+        "selector_summary": "Season-to-season variability in runs per match (39.72656541912477), Playing role (Batsman) and Current-season matches with a batting innings (2.0) support this prediction. Recent-3-season change vs career: runs per match (-8.739999999999998), Career strike rate (134.38) reduce confidence in this prediction. Career runs conceded: No career bowling record was available; Career wickets: No career bowling record was available.",
+        "uncertainty_note": "The probabilities are clearly separated, so this forecast can be treated with reasonable confidence.",
+        "disclaimer": "This is a model-based forecast and should be considered alongside team requirements, not as a guarantee of future performance."
+      }
+    },
+    {
+      "player": "HRC Came",
+      "league": "T20_Blast",
+      "role": "Batsman",
+      "predicted_tier": "Average",
+      "confidence": "Moderate",
+      "attempt1_passed": true,
+      "attempt1_failures": [],
+      "retry_used": false,
+      "attempt2_passed": null,
+      "attempt2_failures": [],
+      "llm_passed_after_retry": true,
+      "template_fallback_used": false,
+      "generation_time_seconds": 7.150910377502441,
+      "completion_tokens": 24,
+      "raw_attempt_1": "{\"selector_summary\": \"Predicted Average tier with Moderate confidence, but verified limiting evidence and missing information reduce confidence.\"}",
+      "raw_attempt_2": null,
+      "explanation": {
+        "headline": "Average-tier forecast with moderate confidence",
+        "prediction_summary": "The model predicts a Average tier for HRC Came (Batsman, T20_Blast) with 53% probability.",
+        "supporting_factors": [
+          "None identified"
+        ],
+        "limiting_factors": [
+          "Trend in runs per match (11.255000000008536)",
+          "Number of active seasons (3.0)"
+        ],
+        "selector_summary": "Predicted Average tier with Moderate confidence, but verified limiting evidence and missing information reduce confidence.",
+        "uncertainty_note": "There is reasonable separation between tiers, but another tier remains plausible, so this forecast should be treated as indicative rather than certain.",
+        "disclaimer": "This is a model-based forecast and should be considered alongside team requirements, not as a guarantee of future performance."
+      }
+    },
+    {
+      "player": "AD Russell",
+      "league": "IPL",
+      "role": "All-Rounder",
+      "predicted_tier": "Elite",
+      "confidence": "Moderate",
+      "attempt1_passed": true,
+      "attempt1_failures": [],
+      "retry_used": false,
+      "attempt2_passed": null,
+      "attempt2_failures": [],
+      "llm_passed_after_retry": true,
+      "template_fallback_used": false,
+      "generation_time_seconds": 6.769115209579468,
+      "completion_tokens": 24,
+      "raw_attempt_1": "{\"selector_summary\": \"Elite tier forecast with moderate confidence, supported by verified evidence, but reduced by limiting factors.\"}",
+      "raw_attempt_2": null,
+      "explanation": {
+        "headline": "Elite-tier forecast with moderate confidence",
+        "prediction_summary": "The model predicts a Elite tier for AD Russell (All-Rounder, IPL) with 59% probability.",
+        "supporting_factors": [
+          "Career runs conceded (2351.0)",
+          "Current-season matches with a batting innings (14.0)",
+          "Career wickets (96.0)"
+        ],
+        "limiting_factors": [
+          "Number of seasons with bowling data (11.0)",
+          "Current-season balls bowled (91.0)"
+        ],
+        "selector_summary": "Elite tier forecast with moderate confidence, supported by verified evidence, but reduced by limiting factors.",
+        "uncertainty_note": "There is reasonable separation between tiers, but another tier remains plausible, so this forecast should be treated as indicative rather than certain.",
+        "disclaimer": "This is a model-based forecast and should be considered alongside team requirements, not as a guarantee of future performance."
+      }
+    },
+    {
+      "player": "JR Doran",
+      "league": "BBL",
+      "role": "Batsman",
+      "predicted_tier": "Poor",
+      "confidence": "High",
+      "attempt1_passed": false,
+      "attempt1_failures": [
+        "missing_information_not_acknowledged"
+      ],
+      "retry_used": true,
+      "attempt2_passed": false,
+      "attempt2_failures": [
+        "confidence_missing"
+      ],
+      "llm_passed_after_retry": false,
+      "template_fallback_used": true,
+      "generation_time_seconds": 15.798648834228516,
+      "completion_tokens": 55,
+      "raw_attempt_1": "{\"selector_summary\": \"Predicted Poor tier with High confidence, supported by verified evidence, but limited by unavailable information and conflicting data.\"}",
+      "raw_attempt_2": "{\"selector_summary\": \"Predicted tier of Poor is supported by verified evidence, but limiting factors and missing information reduce overall confidence.\"}",
+      "explanation": {
+        "headline": "Poor-tier forecast with high confidence",
+        "prediction_summary": "The model predicts a Poor tier for JR Doran (Batsman, BBL) with 66% probability.",
+        "supporting_factors": [
+          "Playing role (Batsman)"
+        ],
+        "limiting_factors": [
+          "Trend in runs per match (4.535714285712735)",
+          "Has 2-season rolling batting (0.0)"
+        ],
+        "selector_summary": "Playing role (Batsman) supports this prediction. Trend in runs per match (4.535714285712735), Has 2-season rolling batting (0.0) reduce confidence in this prediction. Current-season matches with a batting innings: No current-season batting record was available; Career runs conceded: No career bowling record was available.",
+        "uncertainty_note": "The probabilities are clearly separated, so this forecast can be treated with reasonable confidence.",
+        "disclaimer": "This is a model-based forecast and should be considered alongside team requirements, not as a guarantee of future performance."
+      }
+    },
+    {
+      "player": "Miles Hammond",
+      "league": "T20_Blast",
+      "role": "Batsman",
+      "predicted_tier": "Average",
+      "confidence": "Moderate",
+      "attempt1_passed": true,
+      "attempt1_failures": [],
+      "retry_used": false,
+      "attempt2_passed": null,
+      "attempt2_failures": [],
+      "llm_passed_after_retry": true,
+      "template_fallback_used": false,
+      "generation_time_seconds": 7.493036985397339,
+      "completion_tokens": 24,
+      "raw_attempt_1": "{\"selector_summary\": \"Predicted Average tier with Moderate confidence, but verified limiting evidence and missing information reduce confidence.\"}",
+      "raw_attempt_2": null,
+      "explanation": {
+        "headline": "Average-tier forecast with moderate confidence",
+        "prediction_summary": "The model predicts a Average tier for Miles Hammond (Batsman, T20_Blast) with 53% probability.",
+        "supporting_factors": [
+          "None identified"
+        ],
+        "limiting_factors": [
+          "3-season rolling boundary percentage (19.71)",
+          "Season-to-season variability in runs per match (4.830911577193962)"
+        ],
+        "selector_summary": "Predicted Average tier with Moderate confidence, but verified limiting evidence and missing information reduce confidence.",
+        "uncertainty_note": "There is reasonable separation between tiers, but another tier remains plausible, so this forecast should be treated as indicative rather than certain.",
+        "disclaimer": "This is a model-based forecast and should be considered alongside team requirements, not as a guarantee of future performance."
+      }
+    },
+    {
+      "player": "TF Rogers",
+      "league": "BBL",
+      "role": "Batsman",
+      "predicted_tier": "Average",
+      "confidence": "Low",
+      "attempt1_passed": true,
+      "attempt1_failures": [],
+      "retry_used": false,
+      "attempt2_passed": null,
+      "attempt2_failures": [],
+      "llm_passed_after_retry": true,
+      "template_fallback_used": false,
+      "generation_time_seconds": 7.68048882484436,
+      "completion_tokens": 26,
+      "raw_attempt_1": "{\"selector_summary\": \"Predicted average tier with low confidence due to verified limiting and missing evidence, supported by verified factors.\"}",
+      "raw_attempt_2": null,
+      "explanation": {
+        "headline": "Average-tier forecast with low confidence",
+        "prediction_summary": "The model predicts a Average tier for TF Rogers (Batsman, BBL) with 49% probability.",
+        "supporting_factors": [
+          "Current-season runs (187.0)",
+          "Current-season matches with a batting innings (10.0)"
+        ],
+        "limiting_factors": [
+          "Playing role (Batsman)"
+        ],
+        "selector_summary": "Predicted average tier with low confidence due to verified limiting and missing evidence, supported by verified factors.",
+        "uncertainty_note": "The probabilities are close together, so this forecast should be treated cautiously.",
+        "disclaimer": "This is a model-based forecast and should be considered alongside team requirements, not as a guarantee of future performance."
+      }
+    },
+    {
+      "player": "MJ Guptill",
+      "league": "PSL",
+      "role": "Batsman",
+      "predicted_tier": "Average",
+      "confidence": "Moderate",
+      "attempt1_passed": false,
+      "attempt1_failures": [
+        "missing_information_not_acknowledged"
+      ],
+      "retry_used": true,
+      "attempt2_passed": true,
+      "attempt2_failures": [],
+      "llm_passed_after_retry": true,
+      "template_fallback_used": false,
+      "generation_time_seconds": 15.09005880355835,
+      "completion_tokens": 52,
+      "raw_attempt_1": "{\"selector_summary\": \"Predicted Average tier with Moderate confidence, supported by verified evidence, but limited by unavailable information.\"}",
+      "raw_attempt_2": "{\"selector_summary\": \"Predicted average tier with moderate confidence, influenced by verified supporting and limiting factors, and some missing information.\"}",
+      "explanation": {
+        "headline": "Average-tier forecast with moderate confidence",
+        "prediction_summary": "The model predicts a Average tier for MJ Guptill (Batsman, PSL) with 53% probability.",
+        "supporting_factors": [
+          "Playing role (Batsman)"
+        ],
+        "limiting_factors": [
+          "Number of seasons with batting data (2.0)",
+          "Current-season runs (310.0)"
+        ],
+        "selector_summary": "Predicted average tier with moderate confidence, influenced by verified supporting and limiting factors, and some missing information.",
+        "uncertainty_note": "There is reasonable separation between tiers, but another tier remains plausible, so this forecast should be treated as indicative rather than certain.",
+        "disclaimer": "This is a model-based forecast and should be considered alongside team requirements, not as a guarantee of future performance."
+      }
+    },
+    {
+      "player": "AD Hales",
+      "league": "T20_Blast",
+      "role": "Batsman",
+      "predicted_tier": "Average",
+      "confidence": "Low",
+      "attempt1_passed": true,
+      "attempt1_failures": [],
+      "retry_used": false,
+      "attempt2_passed": null,
+      "attempt2_failures": [],
+      "llm_passed_after_retry": true,
+      "template_fallback_used": false,
+      "generation_time_seconds": 7.575200319290161,
+      "completion_tokens": 26,
+      "raw_attempt_1": "{\"selector_summary\": \"Predicted average tier with low confidence due to verified limiting and missing evidence, supported by verified factors.\"}",
+      "raw_attempt_2": null,
+      "explanation": {
+        "headline": "Average-tier forecast with low confidence",
+        "prediction_summary": "The model predicts a Average tier for AD Hales (Batsman, T20_Blast) with 47% probability.",
+        "supporting_factors": [
+          "Playing role (Batsman)"
+        ],
+        "limiting_factors": [
+          "Career balls faced (1972.0)",
+          "Career times dismissed (105.0)"
+        ],
+        "selector_summary": "Predicted average tier with low confidence due to verified limiting and missing evidence, supported by verified factors.",
+        "uncertainty_note": "The probabilities are close together, so this forecast should be treated cautiously.",
+        "disclaimer": "This is a model-based forecast and should be considered alongside team requirements, not as a guarantee of future performance."
+      }
+    },
+    {
+      "player": "TGR Clark",
+      "league": "T20_Blast",
+      "role": "Batsman",
+      "predicted_tier": "Average",
+      "confidence": "Moderate",
+      "attempt1_passed": true,
+      "attempt1_failures": [],
+      "retry_used": false,
+      "attempt2_passed": null,
+      "attempt2_failures": [],
+      "llm_passed_after_retry": true,
+      "template_fallback_used": false,
+      "generation_time_seconds": 7.240642309188843,
+      "completion_tokens": 24,
+      "raw_attempt_1": "{\"selector_summary\": \"Predicted Average tier with Moderate confidence, but verified limiting evidence and missing information reduce confidence.\"}",
+      "raw_attempt_2": null,
+      "explanation": {
+        "headline": "Average-tier forecast with moderate confidence",
+        "prediction_summary": "The model predicts a Average tier for TGR Clark (Batsman, T20_Blast) with 53% probability.",
+        "supporting_factors": [
+          "None identified"
+        ],
+        "limiting_factors": [
+          "Number of active seasons (1.0)",
+          "Current-season matches with a batting innings (14.0)"
+        ],
+        "selector_summary": "Predicted Average tier with Moderate confidence, but verified limiting evidence and missing information reduce confidence.",
+        "uncertainty_note": "There is reasonable separation between tiers, but another tier remains plausible, so this forecast should be treated as indicative rather than certain.",
+        "disclaimer": "This is a model-based forecast and should be considered alongside team requirements, not as a guarantee of future performance."
+      }
+    },
+    {
+      "player": "Akash Madhwal",
+      "league": "IPL",
+      "role": "Bowler",
+      "predicted_tier": "Elite",
+      "confidence": "Moderate",
+      "attempt1_passed": false,
+      "attempt1_failures": [
+        "missing_information_not_acknowledged"
+      ],
+      "retry_used": true,
+      "attempt2_passed": false,
+      "attempt2_failures": [
+        "missing_information_not_acknowledged"
+      ],
+      "llm_passed_after_retry": false,
+      "template_fallback_used": true,
+      "generation_time_seconds": 13.928689956665039,
+      "completion_tokens": 50,
+      "raw_attempt_1": "{\"selector_summary\": \"Elite tier forecast with moderate confidence, supported by verified evidence, but limited by unavailable information.\"}",
+      "raw_attempt_2": "{\"selector_summary\": \"Predicted Elite tier with Moderate confidence, supported by verified evidence, but also limited by unavailable information.\"}",
+      "explanation": {
+        "headline": "Elite-tier forecast with moderate confidence",
+        "prediction_summary": "The model predicts a Elite tier for Akash Madhwal (Bowler, IPL) with 52% probability.",
+        "supporting_factors": [
+          "Current-season wickets (14.0)",
+          "Number of seasons with bowling data (1.0)",
+          "Playing role (Bowler)"
+        ],
+        "limiting_factors": [
+          "Has batting history (0.0)",
+          "Career balls bowled (153.0)"
+        ],
+        "selector_summary": "Current-season wickets (14.0), Number of seasons with bowling data (1.0) and Playing role (Bowler) support this prediction. Has batting history (0.0), Career balls bowled (153.0) reduce confidence in this prediction. Current-season matches with a batting innings: No current-season batting record was available.",
+        "uncertainty_note": "There is reasonable separation between tiers, but another tier remains plausible, so this forecast should be treated as indicative rather than certain.",
+        "disclaimer": "This is a model-based forecast and should be considered alongside team requirements, not as a guarantee of future performance."
+      }
+    },
+    {
+      "player": "TJ Prest",
+      "league": "T20_Blast",
+      "role": "Batsman",
+      "predicted_tier": "Average",
+      "confidence": "Low",
+      "attempt1_passed": true,
+      "attempt1_failures": [],
+      "retry_used": false,
+      "attempt2_passed": null,
+      "attempt2_failures": [],
+      "llm_passed_after_retry": true,
+      "template_fallback_used": false,
+      "generation_time_seconds": 7.640430450439453,
+      "completion_tokens": 26,
+      "raw_attempt_1": "{\"selector_summary\": \"Predicted average tier with low confidence due to verified limiting and missing evidence, supported by verified factors.\"}",
+      "raw_attempt_2": null,
+      "explanation": {
+        "headline": "Average-tier forecast with low confidence",
+        "prediction_summary": "The model predicts a Average tier for TJ Prest (Batsman, T20_Blast) with 44% probability.",
+        "supporting_factors": [
+          "Career wickets (2.0)",
+          "Number of seasons with bowling data (1.0)",
+          "Career balls bowled (36.0)"
+        ],
+        "limiting_factors": [
+          "Current-season matches with a batting innings (7.0)",
+          "3-season rolling strike rate (119.38)"
+        ],
+        "selector_summary": "Predicted average tier with low confidence due to verified limiting and missing evidence, supported by verified factors.",
+        "uncertainty_note": "The probabilities are close together, so this forecast should be treated cautiously.",
+        "disclaimer": "This is a model-based forecast and should be considered alongside team requirements, not as a guarantee of future performance."
+      }
+    },
+    {
+      "player": "WP Saha",
+      "league": "IPL",
+      "role": "Wicketkeeper-Batsman",
+      "predicted_tier": "Average",
+      "confidence": "Low",
+      "attempt1_passed": true,
+      "attempt1_failures": [],
+      "retry_used": false,
+      "attempt2_passed": null,
+      "attempt2_failures": [],
+      "llm_passed_after_retry": true,
+      "template_fallback_used": false,
+      "generation_time_seconds": 7.015440225601196,
+      "completion_tokens": 26,
+      "raw_attempt_1": "{\"selector_summary\": \"Predicted Average tier with Low confidence due to verified limiting evidence and missing information, no supporting factors.\"}",
+      "raw_attempt_2": null,
+      "explanation": {
+        "headline": "Average-tier forecast with low confidence",
+        "prediction_summary": "The model predicts a Average tier for WP Saha (Wicketkeeper-Batsman, IPL) with 46% probability.",
+        "supporting_factors": [
+          "None identified"
+        ],
+        "limiting_factors": [
+          "Current-season matches with a batting innings (17.0)",
+          "Career balls faced (2185.0)"
+        ],
+        "selector_summary": "Predicted Average tier with Low confidence due to verified limiting evidence and missing information, no supporting factors.",
+        "uncertainty_note": "The probabilities are close together, so this forecast should be treated cautiously.",
+        "disclaimer": "This is a model-based forecast and should be considered alongside team requirements, not as a guarantee of future performance."
+      }
+    },
+    {
+      "player": "HJ Swindells",
+      "league": "T20_Blast",
+      "role": "Wicketkeeper-Batsman",
+      "predicted_tier": "Poor",
+      "confidence": "Moderate",
+      "attempt1_passed": false,
+      "attempt1_failures": [
+        "missing_information_not_acknowledged"
+      ],
+      "retry_used": true,
+      "attempt2_passed": false,
+      "attempt2_failures": [
+        "confidence_missing",
+        "missing_information_not_acknowledged"
+      ],
+      "llm_passed_after_retry": false,
+      "template_fallback_used": true,
+      "generation_time_seconds": 13.937289953231812,
+      "completion_tokens": 47,
+      "raw_attempt_1": "{\"selector_summary\": \"Predicted Poor tier with Moderate confidence, limited by unavailable evidence and no supporting factors.\"}",
+      "raw_attempt_2": "{\"selector_summary\": \"Predicted tier is Poor, but verified limiting evidence reduces confidence due to some unavailable evidence.\"}",
+      "explanation": {
+        "headline": "Poor-tier forecast with moderate confidence",
+        "prediction_summary": "The model predicts a Poor tier for HJ Swindells (Wicketkeeper-Batsman, T20_Blast) with 52% probability.",
+        "supporting_factors": [
+          "None identified"
+        ],
+        "limiting_factors": [
+          "Current-season dot-ball percentage (batting) (25.77)",
+          "Playing role (Wicketkeeper-Batsman)"
+        ],
+        "selector_summary": "No strong supporting factors were identified among the top attributions. Current-season dot-ball percentage (batting) (25.77), Playing role (Wicketkeeper-Batsman) reduce confidence in this prediction. Career balls bowled: No career bowling record was available; Career wickets: No career bowling record was available.",
+        "uncertainty_note": "There is reasonable separation between tiers, but another tier remains plausible, so this forecast should be treated as indicative rather than certain.",
+        "disclaimer": "This is a model-based forecast and should be considered alongside team requirements, not as a guarantee of future performance."
+      }
+    },
+    {
+      "player": "AJ Hosein",
+      "league": "CPL",
+      "role": "All-Rounder",
+      "predicted_tier": "Elite",
+      "confidence": "Moderate",
+      "attempt1_passed": true,
+      "attempt1_failures": [],
+      "retry_used": false,
+      "attempt2_passed": null,
+      "attempt2_failures": [],
+      "llm_passed_after_retry": true,
+      "template_fallback_used": false,
+      "generation_time_seconds": 6.686922550201416,
+      "completion_tokens": 24,
+      "raw_attempt_1": "{\"selector_summary\": \"Elite tier forecast with moderate confidence, supported by verified evidence, but reduced by limiting factors.\"}",
+      "raw_attempt_2": null,
+      "explanation": {
+        "headline": "Elite-tier forecast with moderate confidence",
+        "prediction_summary": "The model predicts a Elite tier for AJ Hosein (All-Rounder, CPL) with 60% probability.",
+        "supporting_factors": [
+          "Current-season balls bowled (222.0)",
+          "Current-season matches with a bowling spell (11.0)",
+          "3-season rolling wickets per match (1.07)"
+        ],
+        "limiting_factors": [
+          "Current-season runs (63.0)",
+          "Recent-3-season change vs career: wickets per match (0.18)"
+        ],
+        "selector_summary": "Elite tier forecast with moderate confidence, supported by verified evidence, but reduced by limiting factors.",
+        "uncertainty_note": "There is reasonable separation between tiers, but another tier remains plausible, so this forecast should be treated as indicative rather than certain.",
+        "disclaimer": "This is a model-based forecast and should be considered alongside team requirements, not as a guarantee of future performance."
+      }
+    },
+    {
+      "player": "SR Dickson",
+      "league": "T20_Blast",
+      "role": "Batsman",
+      "predicted_tier": "Average",
+      "confidence": "Moderate",
+      "attempt1_passed": false,
+      "attempt1_failures": [
+        "missing_information_not_acknowledged"
+      ],
+      "retry_used": true,
+      "attempt2_passed": true,
+      "attempt2_failures": [],
+      "llm_passed_after_retry": true,
+      "template_fallback_used": false,
+      "generation_time_seconds": 15.875738859176636,
+      "completion_tokens": 52,
+      "raw_attempt_1": "{\"selector_summary\": \"Predicted Average tier with Moderate confidence, supported by verified evidence, but limited by unavailable information.\"}",
+      "raw_attempt_2": "{\"selector_summary\": \"Predicted average tier with moderate confidence, influenced by verified supporting and limiting factors, and some missing information.\"}",
+      "explanation": {
+        "headline": "Average-tier forecast with moderate confidence",
+        "prediction_summary": "The model predicts a Average tier for SR Dickson (Batsman, T20_Blast) with 54% probability.",
+        "supporting_factors": [
+          "Playing role (Batsman)"
+        ],
+        "limiting_factors": [
+          "Trend in runs per match (3.6194594594590392)",
+          "Current-season dot-ball percentage (batting) (25.14)"
+        ],
+        "selector_summary": "Predicted average tier with moderate confidence, influenced by verified supporting and limiting factors, and some missing information.",
+        "uncertainty_note": "There is reasonable separation between tiers, but another tier remains plausible, so this forecast should be treated as indicative rather than certain.",
+        "disclaimer": "This is a model-based forecast and should be considered alongside team requirements, not as a guarantee of future performance."
+      }
+    },
+    {
+      "player": "Jaskaran Singh",
+      "league": "T20_Blast",
+      "role": "Bowler",
+      "predicted_tier": "Poor",
+      "confidence": "High",
+      "attempt1_passed": false,
+      "attempt1_failures": [
+        "missing_information_not_acknowledged"
+      ],
+      "retry_used": true,
+      "attempt2_passed": false,
+      "attempt2_failures": [
+        "confidence_missing"
+      ],
+      "llm_passed_after_retry": false,
+      "template_fallback_used": true,
+      "generation_time_seconds": 23.35936999320984,
+      "completion_tokens": 55,
+      "raw_attempt_1": "{\"selector_summary\": \"Predicted Poor tier with High confidence, supported by verified evidence, but limited by unavailable information and conflicting data.\"}",
+      "raw_attempt_2": "{\"selector_summary\": \"Predicted tier of Poor is supported by verified evidence, but limiting factors and missing information reduce overall confidence.\"}",
+      "explanation": {
+        "headline": "Poor-tier forecast with high confidence",
+        "prediction_summary": "The model predicts a Poor tier for Jaskaran Singh (Bowler, T20_Blast) with 71% probability.",
+        "supporting_factors": [
+          "Has batting history (0.0)",
+          "3-season rolling economy rate (21.5)",
+          "Career balls bowled (12.0)"
+        ],
+        "limiting_factors": [
+          "Number of seasons with bowling data (1.0)",
+          "Career boundary-conceded percentage (50.0)"
+        ],
+        "selector_summary": "Has batting history (0.0), 3-season rolling economy rate (21.5) and Career balls bowled (12.0) support this prediction. Number of seasons with bowling data (1.0), Career boundary-conceded percentage (50.0) reduce confidence in this prediction. Recent-3-season change vs career: runs per match: No recent-3-season-vs-career batting record was available.",
+        "uncertainty_note": "The probabilities are clearly separated, so this forecast can be treated with reasonable confidence.",
+        "disclaimer": "This is a model-based forecast and should be considered alongside team requirements, not as a guarantee of future performance."
+      }
+    },
+    {
+      "player": "D Elgar",
+      "league": "T20_Blast",
+      "role": "Batsman",
+      "predicted_tier": "Poor",
+      "confidence": "Moderate",
+      "attempt1_passed": false,
+      "attempt1_failures": [
+        "missing_information_not_acknowledged"
+      ],
+      "retry_used": true,
+      "attempt2_passed": false,
+      "attempt2_failures": [
+        "summary_word_count:13",
+        "confidence_missing",
+        "supporting_evidence_not_acknowledged"
+      ],
+      "llm_passed_after_retry": false,
+      "template_fallback_used": true,
+      "generation_time_seconds": 15.83854866027832,
+      "completion_tokens": 46,
+      "raw_attempt_1": "{\"selector_summary\": \"Predicted Poor tier with Moderate confidence, supported by verified evidence but limited by unavailable information.\"}",
+      "raw_attempt_2": "{\"selector_summary\": \"Predicted tier is Poor, but verified limiting evidence and missing information reduce confidence.\"}",
+      "explanation": {
+        "headline": "Poor-tier forecast with moderate confidence",
+        "prediction_summary": "The model predicts a Poor tier for D Elgar (Batsman, T20_Blast) with 58% probability.",
+        "supporting_factors": [
+          "Playing role (Batsman)",
+          "Career balls bowled (18.0)",
+          "Career runs conceded (22.0)"
+        ],
+        "limiting_factors": [
+          "Number of seasons with bowling data (1.0)",
+          "Has 2-season rolling batting (0.0)"
+        ],
+        "selector_summary": "Playing role (Batsman), Career balls bowled (18.0) and Career runs conceded (22.0) support this prediction. Number of seasons with bowling data (1.0), Has 2-season rolling batting (0.0) reduce confidence in this prediction. Current-season matches with a batting innings: No current-season batting record was available; Current-season dot-ball percentage (batting): No current-season batting record was available.",
+        "uncertainty_note": "There is reasonable separation between tiers, but another tier remains plausible, so this forecast should be treated as indicative rather than certain.",
+        "disclaimer": "This is a model-based forecast and should be considered alongside team requirements, not as a guarantee of future performance."
+      }
+    },
+    {
+      "player": "MM Ali",
+      "league": "T20_Blast",
+      "role": "All-Rounder",
+      "predicted_tier": "Average",
+      "confidence": "Low",
+      "attempt1_passed": false,
+      "attempt1_failures": [
+        "confidence_missing"
+      ],
+      "retry_used": true,
+      "attempt2_passed": true,
+      "attempt2_failures": [],
+      "llm_passed_after_retry": true,
+      "template_fallback_used": false,
+      "generation_time_seconds": 17.878664016723633,
+      "completion_tokens": 51,
+      "raw_attempt_1": "{\"selector_summary\": \"Predicted Average tier with moderate confidence, supported by verified evidence, but limited by available data.\"}",
+      "raw_attempt_2": "{\"selector_summary\": \"Predicted average tier with low confidence, supported by verified evidence, but reduced by verified limiting factors.\"}",
+      "explanation": {
+        "headline": "Average-tier forecast with low confidence",
+        "prediction_summary": "The model predicts a Average tier for MM Ali (All-Rounder, T20_Blast) with 42% probability.",
+        "supporting_factors": [
+          "Current-season matches with a bowling spell (3.0)",
+          "Current-season balls bowled (66.0)",
+          "Current-season wickets (5.0)"
+        ],
+        "limiting_factors": [
+          "Recent-3-season change vs career: runs per match (-14.18)",
+          "Current-season wickets per match (1.67)"
+        ],
+        "selector_summary": "Predicted average tier with low confidence, supported by verified evidence, but reduced by verified limiting factors.",
+        "uncertainty_note": "The probabilities are close together, so this forecast should be treated cautiously.",
+        "disclaimer": "This is a model-based forecast and should be considered alongside team requirements, not as a guarantee of future performance."
+      }
+    },
+    {
+      "player": "KV Sharma",
+      "league": "IPL",
+      "role": "All-Rounder",
+      "predicted_tier": "Elite",
+      "confidence": "Low",
+      "attempt1_passed": true,
+      "attempt1_failures": [],
+      "retry_used": false,
+      "attempt2_passed": null,
+      "attempt2_failures": [],
+      "llm_passed_after_retry": true,
+      "template_fallback_used": false,
+      "generation_time_seconds": 6.7797839641571045,
+      "completion_tokens": 23,
+      "raw_attempt_1": "{\"selector_summary\": \"Elite tier forecast with low confidence due to verified limiting evidence and some available supporting factors.\"}",
+      "raw_attempt_2": null,
+      "explanation": {
+        "headline": "Elite-tier forecast with low confidence",
+        "prediction_summary": "The model predicts a Elite tier for KV Sharma (All-Rounder, IPL) with 43% probability.",
+        "supporting_factors": [
+          "3-season rolling wickets per match (1.43)",
+          "Current-season wickets (10.0)",
+          "2-season rolling wickets per match (1.43)"
+        ],
+        "limiting_factors": [
+          "Recent-3-season change vs career: wickets per match (0.48)",
+          "Current-season matches with a batting innings (2.0)"
+        ],
+        "selector_summary": "Elite tier forecast with low confidence due to verified limiting evidence and some available supporting factors.",
+        "uncertainty_note": "The probabilities are close together, so this forecast should be treated cautiously.",
+        "disclaimer": "This is a model-based forecast and should be considered alongside team requirements, not as a guarantee of future performance."
+      }
+    },
+    {
+      "player": "JM Clarke",
+      "league": "T20_Blast",
+      "role": "Wicketkeeper-Batsman",
+      "predicted_tier": "Elite",
+      "confidence": "Moderate",
+      "attempt1_passed": true,
+      "attempt1_failures": [],
+      "retry_used": false,
+      "attempt2_passed": null,
+      "attempt2_failures": [],
+      "llm_passed_after_retry": true,
+      "template_fallback_used": false,
+      "generation_time_seconds": 8.610220909118652,
+      "completion_tokens": 24,
+      "raw_attempt_1": "{\"selector_summary\": \"Elite tier forecast with moderate confidence, supported by verified evidence, but with some missing information.\"}",
+      "raw_attempt_2": null,
+      "explanation": {
+        "headline": "Elite-tier forecast with moderate confidence",
+        "prediction_summary": "The model predicts a Elite tier for JM Clarke (Wicketkeeper-Batsman, T20_Blast) with 51% probability.",
+        "supporting_factors": [
+          "Current-season matches with a batting innings (15.0)",
+          "Current-season runs (432.0)",
+          "Current-season balls faced (279.0)"
+        ],
+        "limiting_factors": [
+          "None identified"
+        ],
+        "selector_summary": "Elite tier forecast with moderate confidence, supported by verified evidence, but with some missing information.",
+        "uncertainty_note": "There is reasonable separation between tiers, but another tier remains plausible, so this forecast should be treated as indicative rather than certain.",
+        "disclaimer": "This is a model-based forecast and should be considered alongside team requirements, not as a guarantee of future performance."
+      }
+    },
+    {
+      "player": "Mohammad Imran",
+      "league": "PSL",
+      "role": "Bowler",
+      "predicted_tier": "Poor",
+      "confidence": "Low",
+      "attempt1_passed": true,
+      "attempt1_failures": [],
+      "retry_used": false,
+      "attempt2_passed": null,
+      "attempt2_failures": [],
+      "llm_passed_after_retry": true,
+      "template_fallback_used": false,
+      "generation_time_seconds": 9.11791467666626,
+      "completion_tokens": 26,
+      "raw_attempt_1": "{\"selector_summary\": \"Predicted Poor tier with Low confidence, influenced by verified limiting and missing evidence, and supporting factors.\"}",
+      "raw_attempt_2": null,
+      "explanation": {
+        "headline": "Poor-tier forecast with low confidence",
+        "prediction_summary": "The model predicts a Poor tier for Mohammad Imran (Bowler, PSL) with 50% probability.",
+        "supporting_factors": [
+          "Career batting reliability (0.1)",
+          "3-season rolling boundary percentage (0.0)"
+        ],
+        "limiting_factors": [
+          "Playing role (Bowler)",
+          "Recent-3-season change vs career: strike rate (-95.24)"
+        ],
+        "selector_summary": "Predicted Poor tier with Low confidence, influenced by verified limiting and missing evidence, and supporting factors.",
+        "uncertainty_note": "The probabilities are close together, so this forecast should be treated cautiously.",
+        "disclaimer": "This is a model-based forecast and should be considered alongside team requirements, not as a guarantee of future performance."
+      }
+    }
+  ],
+  "summary": {
+    "n_players": 30,
+    "first_attempt_pass_count": 19,
+    "first_attempt_pass_rate": 0.6333333333333333,
+    "passed_after_one_retry_count": 23,
+    "passed_after_one_retry_rate": 0.7666666666666667,
+    "template_fallback_count": 7,
+    "template_fallback_rate": 0.23333333333333334,
+    "mean_generation_time_seconds": 10.749984312057496,
+    "median_generation_time_seconds": 7.6784011125564575,
+    "mean_completion_tokens": 34.6,
+    "final_output_grounding_rate": 1.0,
+    "final_output_unsupported_claim_count": 0,
+    "comparison_population": "same frozen stratified 30-player sample as original baseline"
+  }
+}
