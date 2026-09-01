@@ -33,7 +33,10 @@ Every file below is documented — with its exact size and what it's for — in 
 
 ## Not here: the full dataset
 
-This is the *deployment* slice only. The dissertation's complete pipeline output — raw five-league match data, every intermediate CSV from all 23 notebooks, EDA plots, model-development artifacts, the full K-Means/KNN/ILP/SHAP/LLM development trail — is **862 MB**, well past what a normal git repo (and GitHub's 100 MB per-file limit) can hold. It exists locally and is documented separately; it is not required to run the dashboard, only to audit development history or re-run the pipeline from raw data.
+This is the *deployment* slice only. The dissertation's complete pipeline output — raw five-league match data, every intermediate CSV from all 23 notebooks, EDA plots, model-development artifacts, the full K-Means/KNN/ILP/SHAP/LLM development trail — is **862 MB**, well past what a normal git repo (and GitHub's 100 MB per-file limit) can hold. It is **not required to run the dashboard** — only to audit development history or re-run the pipeline from raw data.
+
+The complete 862 MB folder is available here (view-only, no sign-in required):
+**[Full dataset — OneDrive](https://1drv.ms/f/c/a1ca207090ab3bd2/IgCxX22aWBFEQoKbp0d79cO2AVd7JK2X-IwEaiue5qrqkOM?e=bqE92q)**
 
 ## Related repositories
 
